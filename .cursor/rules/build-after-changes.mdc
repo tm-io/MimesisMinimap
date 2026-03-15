@@ -1,0 +1,16 @@
+---
+description: MimesisMinimap のコード変更後は必ず Release ビルドまで実行する
+globs: "**/*.cs,**/*.csproj"
+alwaysApply: false
+---
+
+# ビルドまで毎回対応
+
+このプロジェクト（MimesisMinimap）で C# や csproj を編集した場合は、**変更の反映後に必ず Release ビルドを実行する**。
+
+- コマンド: `dotnet build MimesisMinimap.csproj -c Release`
+- 作業ディレクトリ: プロジェクトルート（`MimesisMinimap` フォルダ）
+- ビルド結果（成功・エラー・警告）をユーザーに簡潔に伝える
+- 出力 DLL のパスを案内する: `bin\Release\MimesisMinimap.dll`
+
+PowerShell では `&&` が使えないため、`Set-Location` と `dotnet build` は `;` でつなぐか、1コマンドで実行する。

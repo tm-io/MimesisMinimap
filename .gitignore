@@ -1,0 +1,24 @@
+# ビルド出力
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+# リポジトリルートの release/ は配布用 DLL を格納するためコミットする
+!/release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MelonLoader（参照用・環境依存のためリポジトリに含めない）
+Lib/
+
+# 解析出力（任意でコミット可）
+# analysis_output.txt
+
+# OS
+Thumbs.db
+.DS_Store

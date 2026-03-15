@@ -1,0 +1,2684 @@
+﻿=== Types with Vector3 fields ===
+ReluProtocol.FieldSkillObjectInfo | <surfaceNormal>k__BackingField | UnityEngine.Vector3
+ReluProtocol.PosWithRot | _pos | UnityEngine.Vector3
+ReluProtocol.PosWithRot | _rot | UnityEngine.Vector3
+ReluProtocol.TargetInfo | <targetPosition>k__BackingField | UnityEngine.Vector3
+ReluProtocol.TargetInfo | <hitPosition>k__BackingField | UnityEngine.Vector3
+Bifrost.Cooked.AuraInfo | AuraOffset | UnityEngine.Vector3
+Bifrost.Cooked.FieldSkillMemberInfo | FieldOffset | UnityEngine.Vector3
+Bifrost.Cooked.ItemEquipmentInfo | DirectionWhenDestroyed | UnityEngine.Vector3
+Bifrost.Cooked.SkillSequenceInfo | RagDollForceDirection | UnityEngine.Vector3
+Mimic.Audio.IndoorOutdoorDetector | lastHeadPosition | UnityEngine.Vector3
+Mimic.Character.HitSystem.CubeHitbox | extent | UnityEngine.Vector3
+Mimic.Actors.AuraSkillActor | AuraOffset | UnityEngine.Vector3
+Mimic.Actors.FieldSkillActor | <spawnPointSurfaceNormal>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.MoveHint | Position | UnityEngine.Vector3
+Mimic.Actors.PhysicsProjectileActor | <Gravity>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProjectileActor | <InitialPosition>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProjectileActor | <InitialForward>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProjectileHit | <FinalPosition>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProjectileHit | <HitPosition>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProjectileHit | <SurfaceNormal>k__BackingField | UnityEngine.Vector3
+Mimic.Actors.ProtoActor | LastDamagedForceDirection | UnityEngine.Vector3
+Mimic.Actors.ProtoActor | debug_syncTargetPos | System.Nullable`1<UnityEngine.Vector3>
+Mimic.Actors.ProtoActor | syncTargetPosVForAnimation | System.Nullable`1<UnityEngine.Vector3>
+Mimic.Actors.ProtoActor | moveStartFallbackList | System.Collections.Generic.List`1<System.ValueTuple`4<System.Int32,UnityEngine.Vector3,System.Single,System.Single>>
+Mimic.Actors.ProtoActor | oldPos | System.Nullable`1<UnityEngine.Vector3>
+Mimic.Actors.ProtoActor | debugRoutePoints | System.Collections.Generic.Queue`1<System.ValueTuple`2<UnityEngine.Vector3,System.Boolean>>
+Mimic.Actors.ProtoActor | lastCharacterControlerHorizontalVelocity | UnityEngine.Vector3
+Mimic.Actors.ProtoActor | debug_oldMoveCurr | System.Nullable`1<UnityEngine.Vector3>
+DLAgent.DLDecisionAgent | _tempVector1 | UnityEngine.Vector3
+DLAgent.DLDecisionAgent | _tempVector2 | UnityEngine.Vector3
+DLAgent.DLDecisionAgent | _tempVector3 | UnityEngine.Vector3
+DLAgent.DLDecisionAgent | _prevPosition | UnityEngine.Vector3
+DLAgent.DLDecisionAgent | _cachedNavTargetPos | UnityEngine.Vector3
+DLAgent.DLDecisionAgent | _cachedNavMyPos | UnityEngine.Vector3
+DLAgent.DLAgentMovementOutput | worldPosDiff | System.Nullable`1<UnityEngine.Vector3>
+DLAgent.DLAgentDecisionOutputForMovement | TargetPos | UnityEngine.Vector3
+DLAgent.DLMovementAgent | _targetPos | UnityEngine.Vector3
+DLAgent.DLMovementAgent | _pathList | System.Collections.Generic.List`1<UnityEngine.Vector3>
+CTI.CTI_SRP_CustomWind | WindDirection | UnityEngine.Vector3
+TobyFredson.FPSController | moveDirection | UnityEngine.Vector3
+TMPro.Examples.CameraController | currentVelocity | UnityEngine.Vector3
+TMPro.Examples.CameraController | desiredPosition | UnityEngine.Vector3
+TMPro.Examples.CameraController | moveVector | UnityEngine.Vector3
+TMPro.Examples.ObjectSpin | TranslationDistance | UnityEngine.Vector3
+TMPro.Examples.ObjectSpin | m_prevPOS | UnityEngine.Vector3
+TMPro.Examples.ObjectSpin | m_initial_Rotation | UnityEngine.Vector3
+TMPro.Examples.ObjectSpin | m_initial_Position | UnityEngine.Vector3
+TMPro.Examples.TextMeshProFloatingText | lastPOS | UnityEngine.Vector3
+SpriteShadersUltimate.Demo.Demo_Player | snapPosition | UnityEngine.Vector3
+SpriteShadersUltimate.Demo.Demo_Shaders | currentPosition | UnityEngine.Vector3
+SpriteShadersUltimate.Demo.Demo_TriggerEvent | snapPosition | UnityEngine.Vector3
+BuildingMakerToolset.ProcedualMeshCache | vertices | UnityEngine.Vector3[]
+BuildingMakerToolset.Geometry.Shape | points | System.Collections.Generic.List`1<UnityEngine.Vector3>
+BuildingMakerToolset.Demo.Door | initialRotationEuler | UnityEngine.Vector3
+BuildingMakerToolset.Demo.PlayerMovement | lastPosition | UnityEngine.Vector3
+BuildingMakerToolset.Demo.PlayerMovement | targetVelocity | UnityEngine.Vector3
+PixPlays.ElementalVFX.EarthShield | _sourcePositions | System.Collections.Generic.List`1<UnityEngine.Vector3>
+PixPlays.ElementalVFX.VfxData | _sourcePos | UnityEngine.Vector3
+PixPlays.ElementalVFX.VfxData | _targetPos | UnityEngine.Vector3
+PixPlays.ElementalVFX.VfxData | _groundPos | UnityEngine.Vector3
+SimpleFPSController.FirstPersonController | m_MoveDir | UnityEngine.Vector3
+FS_OfficePack.SimplePlayerController | moveDirection | UnityEngine.Vector3
+UnityEngine.UI.Extensions.CUIBezierCurve | controlPoints | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.CUIGraphic | refCurvesControlRatioPoints | UnityEngine.UI.Extensions.Vector3_Array2D[]
+UnityEngine.UI.Extensions.Vector3_Array2D | array | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.SoftMaskScript | m_WorldCorners | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.SoftMaskScript | m_CanvasCorners | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.CardPopup2D | cardFallRotation | UnityEngine.Vector3
+UnityEngine.UI.Extensions.CardStack2D | cardPositions | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.ContentScrollSnapHorizontal | contentPositions | System.Collections.Generic.List`1<UnityEngine.Vector3>
+UnityEngine.UI.Extensions.ContentScrollSnapHorizontal | lerpTarget | UnityEngine.Vector3
+UnityEngine.UI.Extensions.CurvedLayout | CurveOffset | UnityEngine.Vector3
+UnityEngine.UI.Extensions.CurvedLayout | itemAxis | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ScrollSnap | _pageAnchorPositions | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.ScrollSnap | _lerpTarget | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ScrollSnap | _positionOnDragStart | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ScrollSnapBase | _lerp_target | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ScrollSnapBase | _startPosition | UnityEngine.Vector3
+UnityEngine.UI.Extensions.BoundTooltipItem | ToolTipOffset | UnityEngine.Vector3
+UnityEngine.UI.Extensions.BoundTooltipTrigger | offset | UnityEngine.Vector3
+UnityEngine.UI.Extensions.HoverTooltip | lowerLeft | UnityEngine.Vector3
+UnityEngine.UI.Extensions.HoverTooltip | upperRight | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | screenLowerLeft | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | screenUpperRight | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | shiftingVector | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | baseTooltipPos | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | newTTPos | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | adjustedNewTTPos | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | adjustedTTLocalPos | UnityEngine.Vector3
+UnityEngine.UI.Extensions.ToolTip | shifterForBorders | UnityEngine.Vector3
+UnityEngine.UI.Extensions.TooltipTrigger | offset | UnityEngine.Vector3
+UnityEngine.UI.Extensions.UIWindowBase | m_originalCoods | UnityEngine.Vector3
+UnityEngine.UI.Extensions.SelectableScaler | initScale | UnityEngine.Vector3
+UnityEngine.UI.Extensions.UILineConnector | previousPositions | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.UIScrollToSelection | viewRectCorners | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.UIScrollToSelection | selectedElementCorners | UnityEngine.Vector3[]
+UnityEngine.UI.Extensions.UI_TweenScale | initScale | UnityEngine.Vector3
+UnityEngine.UI.Extensions.UI_TweenScale | newScale | UnityEngine.Vector3
+EzySlice.IntersectionResult | intersection_pt | UnityEngine.Vector3[]
+EzySlice.Line | m_pos_a | UnityEngine.Vector3
+EzySlice.Line | m_pos_b | UnityEngine.Vector3
+EzySlice.Plane | m_normal | UnityEngine.Vector3
+EzySlice.Triangle | m_pos_a | UnityEngine.Vector3
+EzySlice.Triangle | m_pos_b | UnityEngine.Vector3
+EzySlice.Triangle | m_pos_c | UnityEngine.Vector3
+EzySlice.Triangle | m_nor_a | UnityEngine.Vector3
+EzySlice.Triangle | m_nor_b | UnityEngine.Vector3
+EzySlice.Triangle | m_nor_c | UnityEngine.Vector3
+ECE.EasyColliderAutoSkinned | ShrinkAmount | UnityEngine.Vector3
+ECE.EasyColliderAutoSkinned | ShiftAmount | UnityEngine.Vector3
+ECE.EasyColliderAutoSkinnedBone | WorldSpaceVertices | System.Collections.Generic.List`1<UnityEngine.Vector3>
+ECE.SphereColliderData | Center | UnityEngine.Vector3
+ECE.BoxColliderData | Center | UnityEngine.Vector3
+ECE.BoxColliderData | Size | UnityEngine.Vector3
+ECE.EasyColliderQuickHull | VerticesList | System.Collections.Generic.List`1<UnityEngine.Vector3>
+DunGen.DoorwayPairFinder | UpVector | UnityEngine.Vector3
+DunGen.TilePlacementData | position | UnityEngine.Vector3
+DunGen.DoorwayProxy | <LocalPosition>k__BackingField | UnityEngine.Vector3
+DunGen.Demo.AutoDoor | OpenOffset | UnityEngine.Vector3
+DunGen.Demo.AutoDoor | closedPosition | UnityEngine.Vector3
+DunGen.Demo.LockedDoor | OpenPositionOffset | UnityEngine.Vector3
+DunGen.Demo.LockedDoor | initialPosition | UnityEngine.Vector3
+DunGen.Demo.PickupMotion | positionOffset | UnityEngine.Vector3
+DunGen.Demo.PlayerController | velocity | UnityEngine.Vector3
+Demo_Project.Loop | loopPosition | UnityEngine.Vector3
+Demo_Project.ObjectMover | targetPosition | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzHealth | _impactDirection | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzRagdoll | _storedHipsPosition | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzRagdoll | _storedHipsPositionPrivAnim | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzRagdoll | _storedHipsPositionPrivBlend | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzThirdPersonBase | _moveInput | UnityEngine.Vector3
+BzKovSoft.RagdollTemplate.Scripts.Charachter.BzThirdPersonBase | _airVelocity | UnityEngine.Vector3
+MMBehaviorTree.SetRotation | _rotation | UnityEngine.Vector3
+PrefabSwapper.SwapPrefab | additionalsPos | UnityEngine.Vector3[]
+PrefabSwapper.SwapPrefab | additionalsRot | UnityEngine.Vector3[]
+PrefabSwapper.SwapPrefab | spawnAlongsPos | UnityEngine.Vector3[]
+PrefabSwapper.SwapPrefab | spawnAlongsRot | UnityEngine.Vector3[]
+FS_Atmo.SimplePlayerController | moveDirection | UnityEngine.Vector3
+
+=== Types named *Player* / *Character* / *Controller* / *Camera* (with fields) ===
+
+ReluReplay.Data.PlayerMetaInfo
+  .ActorID : System.Int32
+  .VoiceCount : System.Int32
+  .FinalState : System.Byte
+  .NickName : System.String
+
+ReluProtocol.PlayerInfo
+  .<currentInventorySlot>k__BackingField : System.Int32
+  .<steamID>k__BackingField : System.UInt64
+  .<firstEnterMap>k__BackingField : System.Boolean
+  .<isHost>k__BackingField : System.Boolean
+
+ReluProtocol.PlayerSessionInfo
+  .<isHost>k__BackingField : System.Boolean
+  .<playerUID>k__BackingField : System.Int64
+  .<steamID>k__BackingField : System.UInt64
+  .<guid>k__BackingField : System.String
+
+ReluProtocol.DeathMatchPlayerResult
+  .<actorID>k__BackingField : System.Int32
+  .<killCount>k__BackingField : System.Int32
+  .<reasonofDead>k__BackingField : System.ValueTuple`3<ReluProtocol.Enum.ActorType,System.Int32,System.Int32>
+  .<lastKillTime>k__BackingField : System.Int64
+
+ReluProtocol.PlayerStatusInfo
+  .<actorID>k__BackingField : System.Int32
+  .<actorLifeCycle>k__BackingField : VCreatureLifeCycle
+  .<position>k__BackingField : ReluProtocol.PosWithRot
+  .<inventories>k__BackingField : System.Collections.Generic.Dictionary`2<System.Int32,ReluProtocol.ItemInfo>
+  .<currentInventorySlot>k__BackingField : System.Int32
+
+ReluProtocol.Enum.PlayerResultStatus
+  .value__ : System.Int32
+  .Alived : ReluProtocol.Enum.PlayerResultStatus
+  .Wasted : ReluProtocol.Enum.PlayerResultStatus
+  .Dead : ReluProtocol.Enum.PlayerResultStatus
+
+Bifrost.PlayerData.PlayerData_MasterData
+  .id : System.Int32
+  .name : System.String
+  .fpp_model_path : System.String
+  .tpp_model_path : System.String
+  .hp : System.Int64
+  .attack_power : System.Int64
+  .defense : System.Int64
+  .move_speed_walk : System.Int64
+  .move_speed_run : System.Int64
+  .factions : System.Collections.Generic.List`1<System.Int32>
+  .spawn_wait_time : System.Int32
+  .dying_wait_time : System.Int32
+  .move_radius : System.Single
+  .hit_radius : System.Single
+
+Bifrost.PlayerData.PlayerData_MasterDataHolder
+  .versionInfo : System.Int32
+  .dataHolder : System.Collections.Generic.List`1<Bifrost.PlayerData.PlayerData_MasterData>
+
+Bifrost.LocalizationData.LocalizationData_MasterData
+  .id : System.Int32
+  .key : System.String
+  .en : System.String
+  .ko : System.String
+  .es : System.String
+  .ja : System.String
+  .fr : System.String
+  .de : System.String
+  .zh_cn : System.String
+  .zh_tw : System.String
+  .pt_br : System.String
+  .it : System.String
+  .ru : System.String
+  .uk : System.String
+  .vi : System.String
+  .th : System.String
+  .tr : System.String
+  .pl : System.String
+  .ar : System.String
+
+Bifrost.LocalizationData.LocalizationData_MasterDataHolder
+  .versionInfo : System.Int32
+  .dataHolder : System.Collections.Generic.List`1<Bifrost.LocalizationData.LocalizationData_MasterData>
+
+Bifrost.CharacterSkillSequenceData.CharacterSkillSequenceData_MasterData
+  .id : System.Int32
+  .battle_action_key : System.String
+  .move_origin : System.Int32
+  .seq_type : System.Int32
+  .hit_type : System.Int32
+  .target_type : System.Collections.Generic.List`1<System.Int32>
+  .mutable_stat_type : System.String
+  .mutable_stat_modify_value : System.Int32
+  .abnormal_trigger_value : System.Int32
+  .hit_count : System.Int32
+  .abnormal_apply_type : System.Int32
+  .abnormal_master_id : System.Collections.Generic.List`1<System.Int32>
+  .grab_master_id : System.Int32
+  .link_skill_target_effect_data_id : System.Int32
+  .rag_doll_external_force : System.Collections.Generic.List`1<System.Single>
+  .disable_feel_feedback : System.Boolean
+
+Bifrost.CharacterSkillSequenceData.CharacterSkillSequenceData_MasterDataHolder
+  .versionInfo : System.Int32
+  .dataHolder : System.Collections.Generic.List`1<Bifrost.CharacterSkillSequenceData.CharacterSkillSequenceData_MasterData>
+
+Bifrost.CharacterSkillData.CharacterSkillData_MasterData
+  .id : System.Int32
+  .name : System.String
+  .skill_animation_state_name : System.String
+  .skill_cancel_animation_state_name : System.String
+  .is_moving_skill : System.Boolean
+  .skill_sequence_set : System.Collections.Generic.List`1<System.String>
+  .projectile_event_set : System.Collections.Generic.List`1<System.String>
+  .field_skill_event_set : System.Collections.Generic.List`1<System.String>
+  .aura_skill_event_set : System.Collections.Generic.List`1<System.String>
+  .target_type : System.Int32
+  .hit_count : System.Int32
+  .target_count : System.Int32
+  .min_range : System.Single
+  .max_range : System.Single
+  .allow_range : System.Single
+  .cooltime : System.Int32
+  .cooltime_type : System.Int32
+  .immune : System.Collections.Generic.List`1<System.String>
+  .hide_hand_item : System.Boolean
+  .skill_dead_camera : System.Collections.Generic.List`1<System.String>
+  .dec_gauge : System.Int32
+  .consume_item_type : System.Int32
+  .bullet_type : System.Int32
+  .dec_durability_per_use : System.Int32
+  .dec_durability_type : System.Int32
+  .use_mesh_break_by_durability : System.Boolean
+
+Bifrost.CharacterSkillData.CharacterSkillData_MasterDataHolder
+  .versionInfo : System.Int32
+  .dataHolder : System.Collections.Generic.List`1<Bifrost.CharacterSkillData.CharacterSkillData_MasterData>
+
+Bifrost.Cooked.PlayerMasterInfo
+  .MasterID : System.Int32
+  .Name : System.String
+  .HP : System.Int64
+  .AttackPower : System.Int64
+  .Defense : System.Int64
+  .MoveSpeedWalk : System.Int64
+  .MoveSpeedRun : System.Int64
+  .Factions : System.Collections.Immutable.ImmutableArray`1<System.Int32>
+  .FppPuppetName : System.String
+  .TppPuppetName : System.String
+  .MoveCollisionRadius : System.Single
+  .HitCollisionRadius : System.Single
+
+Mimic.Voice.FishNetDissonancePlayer
+  .<IsTracking>k__BackingField : System.Boolean
+  .syncedCommsPlayerName : FishNet.Object.Synchronizing.SyncVar`1<System.String>
+  .syncedPlayerUID : FishNet.Object.Synchronizing.SyncVar`1<System.Int64>
+  .protoActorCache : Mimic.Actors.ProtoActor
+  .steamID : System.String
+  ._isPossession : System.Boolean
+  ._mimicActor : Mimic.Actors.ProtoActor
+  ._voicePlayerState : Dissonance.VoicePlayerState
+  ._mimicSpeaking : System.Boolean
+  .NetworkInitialize___EarlyMimic.Voice.FishNetDissonancePlayerAssembly-CSharp.dll_Excuted : System.Boolean
+  .NetworkInitialize__LateMimic.Voice.FishNetDissonancePlayerAssembly-CSharp.dll_Excuted : System.Boolean
+
+Mimic.Voice.SpeechSystem.SpeechType_AdjacentPlayerCount
+  .value__ : System.Int32
+  .Monologue : Mimic.Voice.SpeechSystem.SpeechType_AdjacentPlayerCount
+  .Dialogue : Mimic.Voice.SpeechSystem.SpeechType_AdjacentPlayerCount
+  .Multilogue : Mimic.Voice.SpeechSystem.SpeechType_AdjacentPlayerCount
+
+Mimic.Voice.SpeechSystem.SpeechType_FacingPlayerCount
+  .value__ : System.Int32
+  .None : Mimic.Voice.SpeechSystem.SpeechType_FacingPlayerCount
+  .One : Mimic.Voice.SpeechSystem.SpeechType_FacingPlayerCount
+  .Two : Mimic.Voice.SpeechSystem.SpeechType_FacingPlayerCount
+  .MoreThanTwo : Mimic.Voice.SpeechSystem.SpeechType_FacingPlayerCount
+
+Mimic.Residual.ResidualCinemachineCamera
+
+Mimic.Audio.AudioSourceFilterController
+  .LowPass : UnityEngine.AudioLowPassFilter
+  .HighPass : UnityEngine.AudioHighPassFilter
+  .Distortion : UnityEngine.AudioDistortionFilter
+  .Chorus : UnityEngine.AudioChorusFilter
+  .Reverb : UnityEngine.AudioReverbFilter
+  .Echo : UnityEngine.AudioEchoFilter
+  .Amplifier : Mimic.Audio.AudioAmplifierFilter
+  ._audioSource : UnityEngine.AudioSource
+
+Mimic.Animation.FootstepAudioPlayer
+  .rightFootstepSfxId : System.String
+  .leftFootstepSfxId : System.String
+  .animatorParameterName : System.String
+  .animatorParameterThreshold : System.Single
+  .animator : UnityEngine.Animator
+  .lastFootstep : System.Single
+
+Mimic.Animation.CameraBlendCanceller
+  .disableWhenDead : System.Boolean
+  .cancelOnStateEnter : System.Boolean
+  .cancelOnStateExit : System.Boolean
+  .cancelOnStateMachineEnter : System.Boolean
+  .cancelOnStateMachineExit : System.Boolean
+
+Mimic.Animation.MonsterHummingSoundPlayer
+  .hummingSfxId : System.String
+  .delayBeforePlay : System.Single
+  .minStateDuration : System.Single
+  .stateEnterTime : System.Single
+  .soundPlayed : System.Boolean
+  .cachedMonsterActor : Mimic.Actors.ProtoActor
+  .cachedTime : System.Single
+
+Mimic.Animation.PlayerManualControlDeactivator
+
+TobyFredson.TobyGlobalShadersController
+  .windType : TobyFredson.TobyWindType
+  .windStrength : System.Single
+  .windSpeed : System.Single
+  .season : System.Single
+  .cachedAppliedValue : TobyFredson.TobyShaderValuesModel
+  .matsGrassFoliage : System.Collections.Generic.List`1<UnityEngine.Material>
+  .matsTreeBark : System.Collections.Generic.List`1<UnityEngine.Material>
+  .matsTreeFoliage : System.Collections.Generic.List`1<UnityEngine.Material>
+  .matsTreeBillboard : System.Collections.Generic.List`1<UnityEngine.Material>
+  .matsGlobalController : System.Collections.Generic.List`1<UnityEngine.Material>
+
+TobyFredson.FPSController
+  .playerCamera : UnityEngine.Camera
+  .walkSpeed : System.Single
+  .runSpeed : System.Single
+  .jumpPower : System.Single
+  .gravity : System.Single
+  .lookSpeed : System.Single
+  .lookXLimit : System.Single
+  .moveDirection : UnityEngine.Vector3
+  .rotationX : System.Single
+  .canMove : System.Boolean
+  .characterController : UnityEngine.CharacterController
+
+TMPro.Examples.CameraController
+  .cameraTransform : UnityEngine.Transform
+  .dummyTarget : UnityEngine.Transform
+  .CameraTarget : UnityEngine.Transform
+  .FollowDistance : System.Single
+  .MaxFollowDistance : System.Single
+  .MinFollowDistance : System.Single
+  .ElevationAngle : System.Single
+  .MaxElevationAngle : System.Single
+  .MinElevationAngle : System.Single
+  .OrbitalAngle : System.Single
+  .CameraMode : TMPro.Examples.CameraController/CameraModes
+  .MovementSmoothing : System.Boolean
+  .RotationSmoothing : System.Boolean
+  .previousSmoothing : System.Boolean
+  .MovementSmoothingValue : System.Single
+  .RotationSmoothingValue : System.Single
+  .MoveSensitivity : System.Single
+  .currentVelocity : UnityEngine.Vector3
+  .desiredPosition : UnityEngine.Vector3
+  .mouseX : System.Single
+  .mouseY : System.Single
+  .moveVector : UnityEngine.Vector3
+  .mouseWheel : System.Single
+  .event_SmoothingValue : System.String
+  .event_FollowDistance : System.String
+
+StarterAssets.FirstPersonController
+  .MoveSpeed : System.Single
+  .SprintSpeed : System.Single
+  .RotationSpeed : System.Single
+  .SpeedChangeRate : System.Single
+  .JumpHeight : System.Single
+  .Gravity : System.Single
+  .JumpTimeout : System.Single
+  .FallTimeout : System.Single
+  .Grounded : System.Boolean
+  .GroundedOffset : System.Single
+  .GroundedRadius : System.Single
+  .GroundLayers : UnityEngine.LayerMask
+  .CinemachineCameraTarget : UnityEngine.GameObject
+  .TopClamp : System.Single
+  .BottomClamp : System.Single
+  ._cinemachineTargetPitch : System.Single
+  ._speed : System.Single
+  ._rotationVelocity : System.Single
+  ._verticalVelocity : System.Single
+  ._terminalVelocity : System.Single
+  ._jumpTimeoutDelta : System.Single
+  ._fallTimeoutDelta : System.Single
+  ._playerInput : UnityEngine.InputSystem.PlayerInput
+  ._controller : UnityEngine.CharacterController
+  ._input : StarterAssets.StarterAssetsInputs
+  ._mainCamera : UnityEngine.GameObject
+  ._threshold : System.Single
+
+StarterAssets.UICanvasControllerInput
+  .starterAssetsInputs : StarterAssets.StarterAssetsInputs
+
+StarterAssets.ThirdPersonController
+  .MoveSpeed : System.Single
+  .SprintSpeed : System.Single
+  .RotationSmoothTime : System.Single
+  .SpeedChangeRate : System.Single
+  .LandingAudioClip : UnityEngine.AudioClip
+  .FootstepAudioClips : UnityEngine.AudioClip[]
+  .FootstepAudioVolume : System.Single
+  .JumpHeight : System.Single
+  .Gravity : System.Single
+  .JumpTimeout : System.Single
+  .FallTimeout : System.Single
+  .Grounded : System.Boolean
+  .GroundedOffset : System.Single
+  .GroundedRadius : System.Single
+  .GroundLayers : UnityEngine.LayerMask
+  .CinemachineCameraTarget : UnityEngine.GameObject
+  .TopClamp : System.Single
+  .BottomClamp : System.Single
+  .CameraAngleOverride : System.Single
+  .LockCameraPosition : System.Boolean
+  ._cinemachineTargetYaw : System.Single
+  ._cinemachineTargetPitch : System.Single
+  ._speed : System.Single
+  ._animationBlend : System.Single
+  ._targetRotation : System.Single
+  ._rotationVelocity : System.Single
+  ._verticalVelocity : System.Single
+  ._terminalVelocity : System.Single
+  ._jumpTimeoutDelta : System.Single
+  ._fallTimeoutDelta : System.Single
+  ._animIDSpeed : System.Int32
+  ._animIDGrounded : System.Int32
+  ._animIDJump : System.Int32
+  ._animIDFreeFall : System.Int32
+  ._animIDMotionSpeed : System.Int32
+  ._playerInput : UnityEngine.InputSystem.PlayerInput
+  ._animator : UnityEngine.Animator
+  ._controller : UnityEngine.CharacterController
+  ._input : StarterAssets.StarterAssetsInputs
+  ._mainCamera : UnityEngine.GameObject
+  ._threshold : System.Single
+  ._hasAnimator : System.Boolean
+
+SpriteShadersUltimate.Demo.Demo_Camera
+
+SpriteShadersUltimate.Demo.Demo_Player
+  .instance : SpriteShadersUltimate.Demo.Demo_Player
+  .idleSprites : System.Collections.Generic.List`1<UnityEngine.Sprite>
+  .runningSprites : System.Collections.Generic.List`1<UnityEngine.Sprite>
+  .hurtSprites : System.Collections.Generic.List`1<UnityEngine.Sprite>
+  .ignoreMaterials : System.Boolean
+  .spriteRenderer : UnityEngine.SpriteRenderer
+  .rig : UnityEngine.Rigidbody2D
+  .nextFrame : System.Single
+  .currentIndex : System.Int32
+  .currentAnimation : System.Collections.Generic.List`1<UnityEngine.Sprite>
+  .originalMaterial : UnityEngine.Material
+  .currentMaterial : UnityEngine.Material
+  .snapPosition : UnityEngine.Vector3
+  .isShadow : System.Boolean
+
+BuildingMakerToolset.Demo.PlayerMovement
+  .controller : UnityEngine.CharacterController
+  .cameraTransform : UnityEngine.Transform
+  .footstepSource : UnityEngine.AudioSource
+  .speed : System.Single
+  .gravity : System.Single
+  .jumpHeight : System.Single
+  .groundCheck : UnityEngine.Transform
+  .groundDistance : System.Single
+  .groundMask : UnityEngine.LayerMask
+  .lastPosition : UnityEngine.Vector3
+  .targetVelocity : UnityEngine.Vector3
+  .isGrounded : System.Boolean
+  .hitColliders : UnityEngine.Collider[]
+  .numOfGroundColliders : System.Int32
+  .distAfterLastFootstep : System.Single
+  .currentTask : BuildingMakerToolset.Demo.PlayerMovement/CurrentTask
+  .curFootstepAudio : BuildingMakerToolset.Demo.PlayerMovement/FootStepAudio
+  .footStepAudios : BuildingMakerToolset.Demo.PlayerMovement/FootStepAudio[]
+  .DefaultFootstepAudio : BuildingMakerToolset.Demo.PlayerMovement/FootStepAudio
+  .movement : UnityEngine.InputSystem.InputAction
+  .jump : UnityEngine.InputSystem.InputAction
+
+BuildingMakerToolset.Demo.SimpleCameraController
+  .m_TargetCameraState : BuildingMakerToolset.Demo.SimpleCameraController/CameraState
+  .m_InterpolatingCameraState : BuildingMakerToolset.Demo.SimpleCameraController/CameraState
+  .boost : System.Single
+  .positionLerpTime : System.Single
+  .mouseSensitivityCurve : UnityEngine.AnimationCurve
+  .rotationLerpTime : System.Single
+  .invertY : System.Boolean
+  .movementAction : UnityEngine.InputSystem.InputAction
+  .verticalMovementAction : UnityEngine.InputSystem.InputAction
+  .lookAction : UnityEngine.InputSystem.InputAction
+  .boostFactorAction : UnityEngine.InputSystem.InputAction
+  .mouseRightButtonPressed : System.Boolean
+
+PixPlays.ElementalVFX.Character
+  ._Anim : UnityEngine.Animator
+  ._BindingPoints : PixPlays.ElementalVFX.BindingPoints
+  ._Target : UnityEngine.Transform
+  ._overrideController : UnityEngine.AnimatorOverrideController
+
+SimpleFPSController.FirstPersonController
+  .m_MouseLook : SimpleFPSController.MouseLook
+  .m_IsWalking : System.Boolean
+  .m_WalkSpeed : System.Single
+  .m_RunSpeed : System.Single
+  .m_RunstepLenghten : System.Single
+  .m_JumpSpeed : System.Single
+  .m_StickToGroundForce : System.Single
+  .m_GravityMultiplier : System.Single
+  .m_StepInterval : System.Single
+  .m_FootstepSounds : UnityEngine.AudioClip[]
+  .m_JumpSound : UnityEngine.AudioClip
+  .m_LandSound : UnityEngine.AudioClip
+  .m_Camera : UnityEngine.Camera
+  .m_Jump : System.Boolean
+  .m_YRotation : System.Single
+  .m_Input : UnityEngine.Vector2
+  .m_MoveDir : UnityEngine.Vector3
+  .m_CharacterController : UnityEngine.CharacterController
+  .m_CollisionFlags : UnityEngine.CollisionFlags
+  .m_PreviouslyGrounded : System.Boolean
+  .m_StepCycle : System.Single
+  .m_NextStep : System.Single
+  .m_Jumping : System.Boolean
+  .m_AudioSource : UnityEngine.AudioSource
+
+FS_OfficePack.SimplePlayerController
+  .playerCamera : UnityEngine.Camera
+  .walkSpeed : System.Single
+  .runSpeed : System.Single
+  .lookSpeed : System.Single
+  .lookXLimit : System.Single
+  .gravity : System.Single
+  .characterController : UnityEngine.CharacterController
+  .moveDirection : UnityEngine.Vector3
+  .rotationX : System.Single
+  .canMove : System.Boolean
+
+UnityEngine.UI.Extensions.ScrollPositionController
+  .viewport : UnityEngine.RectTransform
+  .directionOfRecognize : UnityEngine.UI.Extensions.ScrollPositionController/ScrollDirection
+  .movementType : UnityEngine.UI.Extensions.ScrollPositionController/MovementType
+  .elasticity : System.Single
+  .scrollSensitivity : System.Single
+  .inertia : System.Boolean
+  .decelerationRate : System.Single
+  .snap : UnityEngine.UI.Extensions.ScrollPositionController/Snap
+  .dataCount : System.Int32
+  .autoScrollState : UnityEngine.UI.Extensions.ScrollPositionController/AutoScrollState
+  .onUpdatePosition : System.Action`1<System.Single>
+  .onItemSelected : System.Action`1<System.Int32>
+  .pointerStartLocalPosition : UnityEngine.Vector2
+  .dragStartScrollPosition : System.Single
+  .prevScrollPosition : System.Single
+  .currentScrollPosition : System.Single
+  .dragging : System.Boolean
+  .velocity : System.Single
+
+StylizedPointLight.BuiltIn_CameraDepthNormal
+  .cam : UnityEngine.Camera
+
+StylizedPointLight.SimpleCameraController
+  .m_TargetCameraState : StylizedPointLight.SimpleCameraController/CameraState
+  .m_InterpolatingCameraState : StylizedPointLight.SimpleCameraController/CameraState
+  .boost : System.Single
+  .positionLerpTime : System.Single
+  .mouseSensitivityCurve : UnityEngine.AnimationCurve
+  .rotationLerpTime : System.Single
+  .invertY : System.Boolean
+
+FishySteamworks.LocalPacket
+  .Data : System.Byte[]
+  .Length : System.Int32
+  .Channel : System.Byte
+
+DunGen.BasicRoomCullingCamera
+  .AdjacentTileDepth : System.Int32
+  .CullBehindClosedDoors : System.Boolean
+  .TargetOverride : UnityEngine.Transform
+  .CullInEditor : System.Boolean
+  .CullLights : System.Boolean
+  .<IsReady>k__BackingField : System.Boolean
+  .isCulling : System.Boolean
+  .isDirty : System.Boolean
+  .generator : DunGen.DungeonGenerator
+  .currentTile : DunGen.Tile
+  .allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  .allDoors : System.Collections.Generic.List`1<DunGen.Door>
+  .visibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  .rendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+  .lightVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/LightData>>
+  .reflectionProbeVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/ReflectionProbeData>>
+  .doorRendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Door,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+
+DunGen.DungenCharacterDelegate
+
+DunGen.CharacterTileChangedEvent
+
+DunGen.DungenCharacter
+  .CharacterAdded : DunGen.DungenCharacterDelegate
+  .CharacterRemoved : DunGen.DungenCharacterDelegate
+  .<AllCharacters>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DungenCharacter>
+  .allCharacters : System.Collections.Generic.List`1<DunGen.DungenCharacter>
+  .OnTileChanged : DunGen.CharacterTileChangedEvent
+  .overlappingTiles : System.Collections.Generic.List`1<DunGen.Tile>
+
+DunGen.LocalPropSetCountMode
+  .value__ : System.Int32
+  .Random : DunGen.LocalPropSetCountMode
+  .DepthBased : DunGen.LocalPropSetCountMode
+  .DepthMultiply : DunGen.LocalPropSetCountMode
+
+DunGen.LocalPropSet
+  .GetCountMethods : System.Collections.Generic.Dictionary`2<DunGen.LocalPropSetCountMode,DunGen.GetPropCountDelegate>
+  .Props : DunGen.GameObjectChanceTable
+  .PropCount : DunGen.IntRange
+  .CountMode : DunGen.LocalPropSetCountMode
+  .CountDepthCurve : UnityEngine.AnimationCurve
+
+DunGen.Demo2D.PlayerController2D
+  .MovementSpeed : System.Single
+  .collider : UnityEngine.CircleCollider2D
+  .hitBuffer : UnityEngine.RaycastHit2D[]
+  .dungeonGenerator : DunGen.DungeonGenerator
+
+DunGen.Demo.CameraMovement
+  .moveSpeed : System.Single
+  .lookSensitivity : System.Single
+  .holdRightMouseToLook : System.Boolean
+  .scrollZoomSpeed : System.Single
+  .look : UnityEngine.Vector2
+  .cam : UnityEngine.Camera
+
+DunGen.Demo.PlayerController
+  .MinYaw : System.Single
+  .MaxYaw : System.Single
+  .MinPitch : System.Single
+  .MaxPitch : System.Single
+  .LookSensitivity : System.Single
+  .MoveSpeed : System.Single
+  .TurnSpeed : System.Single
+  .movementController : UnityEngine.CharacterController
+  .playerCamera : UnityEngine.Camera
+  .overheadCamera : UnityEngine.Camera
+  .isControlling : System.Boolean
+  .yaw : System.Single
+  .pitch : System.Single
+  .gen : DunGen.Demo.Generator
+  .velocity : UnityEngine.Vector3
+
+DunGen.Demo.PlayerInventory
+  .keys : System.Collections.Generic.List`1<System.Int32>
+
+Demo_Project.Player
+  .transformComponent : UnityEngine.Transform
+  .rightClickWaitTime : System.Int32
+  .rightClickWaitTimeLimit : System.Int32
+  .angleMax : System.Single
+  .angleMin : System.Single
+  .chargeTime : System.Int32
+  .midChargeTime : System.Int32
+  .fullChargeLimit : System.Int32
+  .muzzleFlashColor : UnityEngine.Color
+  .projectileObject : UnityEngine.GameObject
+  .burstObject : UnityEngine.GameObject
+  .loopObject : UnityEngine.GameObject
+  .chargeObject : UnityEngine.GameObject
+
+BzKovSoft.RagdollTemplate.Scripts.Tools.BzSpeedController
+  ._fixedDeltaTime : System.Single
+  ._timeScale : System.Single
+  .text : System.String
+
+MMBehaviorTree.ChangeMovingPlayerToTarget
+
+MMBehaviorTree.CollectMovingPlayerInRange
+  ._radius : System.Single
+  ._angle : System.Single
+
+MMBehaviorTree.ResetMovingPlayerInfo
+
+MMBehaviorTree.CheckDeadPlayerCount
+  ._count : System.Int32
+  ._compareType : BTParamCompareType
+
+MMBehaviorTree.CheckPlayerCountInRadius
+  ._range : System.Single
+  ._comparator : System.String
+  ._count : System.Int32
+  ._checkHeight : System.Boolean
+
+Beautify.Universal.CameraAnimator
+
+FS_Atmo.SimplePlayerController
+  .playerCamera : UnityEngine.Camera
+  .walkSpeed : System.Single
+  .runSpeed : System.Single
+  .lookSpeed : System.Single
+  .lookXLimit : System.Single
+  .gravity : System.Single
+  .characterController : UnityEngine.CharacterController
+  .moveDirection : UnityEngine.Vector3
+  .rotationX : System.Single
+  .canMove : System.Boolean
+
+FS_Atmo.SimplePlayerUse
+  .mainCamera : UnityEngine.GameObject
+  .objectClicked : UnityEngine.GameObject
+  .flashlight : UnityEngine.GameObject
+  .OpenClose : UnityEngine.KeyCode
+  .Flashlight : UnityEngine.KeyCode
+
+========== MAP / DUNGEON / LEVEL / ROOM (for Minimap) ==========
+
+--- ReluProtocol.MaintenenceRoomInfo ---
+  [F] <tramUpgradeListForClient>k__BackingField : System.Collections.Generic.List`1<System.Int32>
+
+--- ReluProtocol.GameRoomResult ---
+  [F] <removedItems>k__BackingField : System.Collections.Generic.List`1<ReluProtocol.ItemInfo>
+
+--- ReluProtocol.DeathMatchRoomMemberResultInfo ---
+
+--- ReluProtocol.DeathMatchRoomResult ---
+  [F] <playerStatus>k__BackingField : System.Collections.Generic.Dictionary`2<System.Int32,ReluProtocol.DeathMatchRoomMemberResultInfo>
+
+--- ReluProtocol.RoomInfo ---
+  [F] <roomType>k__BackingField : VRoomType
+
+--- ReluProtocol.LevelObjectInfo ---
+
+--- ReluProtocol.Enum.ReasonOfSpawn ---
+
+--- ReluProtocol.C2S.CompleteMakingRoomSig ---
+  [F] <nextRoomInfo>k__BackingField : ReluProtocol.RoomInfo
+
+--- ReluProtocol.C2S.EnterWaitingRoomReq ---
+
+--- ReluProtocol.C2S.EnterWaitingRoomRes ---
+  [F] <nextGameDungeonMasterIDs>k__BackingField : System.Collections.Generic.List`1<System.Int32>
+  [F] <memberList>k__BackingField : System.Collections.Generic.List`1<ReluProtocol.PlayerSessionInfo>
+
+--- ReluProtocol.C2S.EnterDungeonReq ---
+
+--- ReluProtocol.C2S.EnterDungeonRes ---
+
+--- ReluProtocol.C2S.EnterDeathMatchRoomReq ---
+
+--- ReluProtocol.C2S.EnterDeathMatchRoomRes ---
+
+--- ReluProtocol.C2S.LevelLoadCompleteReq ---
+
+--- ReluProtocol.C2S.LevelLoadCompleteRes ---
+  [F] <levelObjects>k__BackingField : System.Collections.Generic.List`1<ReluProtocol.LevelObjectInfo>
+  [F] <tramUpgradeList>k__BackingField : System.Collections.Generic.List`1<System.Int32>
+
+--- ReluProtocol.C2S.BeginEndRoomCutSceneSig ---
+  [F] <exitCutsceneNames>k__BackingField : System.Collections.Generic.List`1<System.String>
+
+--- ReluProtocol.C2S.EndDungeonSig ---
+  [F] <result>k__BackingField : ReluProtocol.GameRoomResult
+
+--- ReluProtocol.C2S.EndDeathMatchRoomSig ---
+  [F] <result>k__BackingField : ReluProtocol.DeathMatchRoomResult
+
+--- ReluProtocol.C2S.LeaveRoomSig ---
+
+--- ReluProtocol.C2S.EnableWaitingRoomSig ---
+
+--- ReluProtocol.C2S.EnableDeathMatchRoomSig ---
+
+--- ReluProtocol.C2S.EnterMaintenanceRoomReq ---
+
+--- ReluProtocol.C2S.EnterMaintenanceRoomRes ---
+  [F] <memberList>k__BackingField : System.Collections.Generic.List`1<ReluProtocol.PlayerSessionInfo>
+
+--- Bifrost.SpawnableMonsterGroup.SpawnableMonsterGroup_candidate ---
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.SpawnableMonsterGroup.SpawnableMonsterGroup_MasterData ---
+  [F] SpawnableMonsterGroup_candidateval : System.Collections.Generic.List`1<Bifrost.SpawnableMonsterGroup.SpawnableMonsterGroup_candidate>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.SpawnableMonsterGroup.SpawnableMonsterGroup_MasterDataHolder ---
+  [F] dataHolder : System.Collections.Generic.List`1<Bifrost.SpawnableMonsterGroup.SpawnableMonsterGroup_MasterData>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.SpawnableMiscGroup.SpawnableMiscGroup_candidate ---
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.SpawnableMiscGroup.SpawnableMiscGroup_MasterData ---
+  [F] SpawnableMiscGroup_candidateval : System.Collections.Generic.List`1<Bifrost.SpawnableMiscGroup.SpawnableMiscGroup_candidate>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.SpawnableMiscGroup.SpawnableMiscGroup_MasterDataHolder ---
+  [F] dataHolder : System.Collections.Generic.List`1<Bifrost.SpawnableMiscGroup.SpawnableMiscGroup_MasterData>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.MapData.MapData_MasterData ---
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.MapData.MapData_MasterDataHolder ---
+  [F] dataHolder : System.Collections.Generic.List`1<Bifrost.MapData.MapData_MasterData>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.Dungeon.Dungeon_event_group ---
+  [F] event_actions : System.Collections.Generic.List`1<System.String>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.Dungeon.Dungeon_candidate ---
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.Dungeon.Dungeon_MasterData ---
+  [F] Dungeon_event_groupval : System.Collections.Generic.List`1<Bifrost.Dungeon.Dungeon_event_group>
+  [F] Dungeon_candidateval : System.Collections.Generic.List`1<Bifrost.Dungeon.Dungeon_candidate>
+  [F] random_teleport_start_count : System.Collections.Generic.List`1<System.Int32>
+  [F] random_teleport_end_count : System.Collections.Generic.List`1<System.Int32>
+  [F] weather_change : System.Collections.Generic.List`1<System.String>
+  [F] weather_random : System.Collections.Generic.List`1<System.String>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.Dungeon.Dungeon_MasterDataHolder ---
+  [F] dataHolder : System.Collections.Generic.List`1<Bifrost.Dungeon.Dungeon_MasterData>
+  [M] GetLength() -> System.Int32
+  [M] GetLengthInternal() -> System.Int32
+
+--- Bifrost.Cooked.MapMasterInfo ---
+
+--- Bifrost.ConstEnum.ItemSpawnFieldSkillEnvConditionType ---
+
+--- Bifrost.ConstEnum.ItemSpawnFieldSkillEnclosureConditionType ---
+
+--- Mimic.Voice.MimicVoiceSpawner ---
+
+--- TMPro.Examples.TextMeshSpawner ---
+
+--- BuildingMakerToolset.RuntimePreviewGenerator ---
+
+--- UnityEngine.UI.Extensions.CurvedLayout ---
+  [F] CurveOffset : UnityEngine.Vector3
+  [F] itemAxis : UnityEngine.Vector3
+
+--- UnityEngine.UI.Extensions.FancyCell`2 ---
+
+--- UnityEngine.UI.Extensions.FancyCell`1 ---
+
+--- UnityEngine.UI.Extensions.FancyCellGroup`2 ---
+  [F] <Cells>k__BackingField : UnityEngine.UI.Extensions.FancyCell`2<TItemData,TContext>[]
+
+--- UnityEngine.UI.Extensions.FancyGridView`2 ---
+
+--- UnityEngine.UI.Extensions.FancyGridView`1 ---
+
+--- UnityEngine.UI.Extensions.FancyGridViewCell`2 ---
+
+--- UnityEngine.UI.Extensions.FancyGridViewCell`1 ---
+
+--- UnityEngine.UI.Extensions.FancyGridViewContext ---
+
+--- UnityEngine.UI.Extensions.FancyScrollRectCell`2 ---
+
+--- UnityEngine.UI.Extensions.FancyScrollRectCell`1 ---
+
+--- UnityEngine.UI.Extensions.FlowLayoutGroup ---
+  [F] _itemList : System.Collections.Generic.IList`1<UnityEngine.RectTransform>
+  [M] GetGreatestMinimumChildWidth() -> System.Single
+  [M] GetGreatestMinimumChildHeigth() -> System.Single
+
+--- UnityEngine.UI.Extensions.RadialLayout ---
+
+--- UnityEngine.UI.Extensions.TableLayoutGroup ---
+  [F] columnWidths : System.Single[]
+  [F] preferredRowHeights : System.Single[]
+
+--- UnityEngine.UI.Extensions.TileSizeFitter ---
+  [F] m_Rect : UnityEngine.RectTransform
+  [F] m_Tracker : UnityEngine.DrivenRectTransformTracker
+
+--- UnityEngine.UI.Extensions.UIGridRenderer ---
+
+--- DunGen.AdjacentRoomCulling ---
+  [F] AdjacentTileDepth : System.Int32
+  [F] CullBehindClosedDoors : System.Boolean
+  [F] TargetOverride : UnityEngine.Transform
+  [F] IncludeDisabledComponents : System.Boolean
+  [F] OverrideRendererVisibilities : System.Collections.Generic.Dictionary`2<UnityEngine.Renderer,System.Boolean>
+  [F] OverrideLightVisibilities : System.Collections.Generic.Dictionary`2<UnityEngine.Light,System.Boolean>
+  [F] <Ready>k__BackingField : System.Boolean
+  [F] <relumod_Suppressed>k__BackingField : System.Boolean
+  [F] TileVisibilityChanged : DunGen.AdjacentRoomCulling/VisibilityChangedDelegate
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] allDoors : System.Collections.Generic.List`1<DunGen.Door>
+  [F] oldVisibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] visibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] tileVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Boolean>
+  [F] tileRenderers : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Renderer>>
+  [F] lightSources : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Light>>
+  [F] reflectionProbes : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.ReflectionProbe>>
+  [F] relumod_lightAnimations : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<SimpleLightAnimation>>
+  [F] relumod_decals : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Rendering.Universal.DecalProjector>>
+  [F] doorRenderers : System.Collections.Generic.Dictionary`2<DunGen.Door,System.Collections.Generic.List`1<UnityEngine.Renderer>>
+  [F] dirty : System.Boolean
+  [F] generator : DunGen.DungeonGenerator
+  [F] currentTile : DunGen.Tile
+  [F] tilesToSearch : System.Collections.Generic.Queue`1<DunGen.Tile>
+  [F] searchedTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] dungeon : DunGen.Dungeon
+  [F] relumod_allBounds : UnityEngine.Bounds
+  [F] relumod_tilesByXZ : System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.Collections.Generic.List`1<DunGen.Tile>>>
+  [F] relumod_tilesByXWidth : System.Single
+  [F] relumod_tilesByZWidth : System.Single
+  [M] add_TileVisibilityChanged(DunGen.AdjacentRoomCulling/VisibilityChangedDelegate) -> System.Void
+  [M] remove_TileVisibilityChanged(DunGen.AdjacentRoomCulling/VisibilityChangedDelegate) -> System.Void
+  [M] IsCameraTargetOutdoor() -> System.Boolean
+  [M] SetDungeon(DunGen.Dungeon) -> System.Void
+  [M] IsTileVisible(DunGen.Tile) -> System.Boolean
+  [M] UpdateRendererLists() -> System.Void
+  [M] relumod_FastFindCurrentTile(UnityEngine.Transform, System.Single) -> DunGen.Tile
+  [M] relumod_FastFindCurrentTile(UnityEngine.Vector3, System.Single) -> DunGen.Tile
+  [M] relumod_AddRenderersToTile(DunGen.Tile, UnityEngine.Transform) -> System.Void
+  [M] relumod_RemoveRenderersFromTile(DunGen.Tile, UnityEngine.Transform) -> System.Void
+  [M] relumod_Suppress() -> System.Void
+  [M] relumod_Unsuppress() -> System.Void
+  [M] OnTeleported() -> System.Void
+
+--- DunGen.BasicRoomCullingCamera ---
+  [F] AdjacentTileDepth : System.Int32
+  [F] CullBehindClosedDoors : System.Boolean
+  [F] TargetOverride : UnityEngine.Transform
+  [F] CullInEditor : System.Boolean
+  [F] CullLights : System.Boolean
+  [F] <IsReady>k__BackingField : System.Boolean
+  [F] isCulling : System.Boolean
+  [F] isDirty : System.Boolean
+  [F] generator : DunGen.DungeonGenerator
+  [F] currentTile : DunGen.Tile
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] allDoors : System.Collections.Generic.List`1<DunGen.Door>
+  [F] visibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] rendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+  [F] lightVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/LightData>>
+  [F] reflectionProbeVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/ReflectionProbeData>>
+  [F] doorRendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Door,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+  [M] SetDungeon(DunGen.Dungeon) -> System.Void
+
+--- DunGen.TileMatchDelegate ---
+  [M] Invoke(DunGen.TileProxy, DunGen.TileProxy, System.Single&) -> System.Boolean
+  [M] BeginInvoke(DunGen.TileProxy, DunGen.TileProxy, System.Single&, System.AsyncCallback, System.Object) -> System.IAsyncResult
+  [M] EndInvoke(System.Single&, System.IAsyncResult) -> System.Boolean
+
+--- DunGen.GetTileTemplateDelegate ---
+  [M] Invoke(UnityEngine.GameObject) -> DunGen.TileProxy
+  [M] BeginInvoke(UnityEngine.GameObject, System.AsyncCallback, System.Object) -> System.IAsyncResult
+  [M] EndInvoke(System.IAsyncResult) -> DunGen.TileProxy
+
+--- DunGen.CharacterTileChangedEvent ---
+  [M] Invoke(DunGen.DungenCharacter, DunGen.Tile, DunGen.Tile) -> System.Void
+  [M] BeginInvoke(DunGen.DungenCharacter, DunGen.Tile, DunGen.Tile, System.AsyncCallback, System.Object) -> System.IAsyncResult
+  [M] EndInvoke(System.IAsyncResult) -> System.Void
+
+--- DunGen.DunGenSettings ---
+  [F] instance : DunGen.DunGenSettings
+  [F] defaultSocket : DunGen.DoorwaySocket
+  [F] tagManager : DunGen.Tags.TagManager
+  [M] FindOrCreateInstanceAsset() -> DunGen.DunGenSettings
+
+--- DunGen.Dungeon ---
+  [F] <Bounds>k__BackingField : UnityEngine.Bounds
+  [F] DebugRender : System.Boolean
+  [F] <AllTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <MainPathTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <BranchPathTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <Doors>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.GameObject>
+  [F] <Connections>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayConnection>
+  [F] <ConnectionGraph>k__BackingField : DunGen.DungeonGraph
+  [F] dungeonFlow : DunGen.Graph.DungeonFlow
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] mainPathTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] branchPathTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] doors : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] connections : System.Collections.Generic.List`1<DunGen.DoorwayConnection>
+  [F] attachmentTile : DunGen.Tile
+  [M] AddAdditionalDoor(DunGen.Door) -> System.Void
+  [M] PreGenerateDungeon(DunGen.DungeonGenerator) -> System.Void
+  [M] PostGenerateDungeon(DunGen.DungeonGenerator) -> System.Void
+  [M] Clear() -> System.Void
+  [M] GetConnectedDoorway(DunGen.Doorway) -> DunGen.Doorway
+  [M] FromProxy(DunGen.DungeonProxy, DunGen.DungeonGenerator) -> System.Void
+  [M] OnDrawGizmos() -> System.Void
+  [M] DebugDraw() -> System.Void
+
+--- DunGen.DungeonArchetype ---
+  [F] TileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchStartTileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchStartType : DunGen.BranchCapType
+  [F] BranchCapTileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchCapType : DunGen.BranchCapType
+  [F] BranchingDepth : DunGen.IntRange
+  [F] BranchCount : DunGen.IntRange
+  [F] StraightenChance : System.Single
+  [F] Unique : System.Boolean
+  [M] GetHasValidBranchStartTiles() -> System.Boolean
+  [M] GetHasValidBranchCapTiles() -> System.Boolean
+
+--- DunGen.DungeonAttachmentSettings ---
+  [F] <AttachmentDoorway>k__BackingField : DunGen.Doorway
+  [F] <AttachmentTile>k__BackingField : DunGen.Tile
+  [F] <TileProxy>k__BackingField : DunGen.TileProxy
+  [M] GenerateAttachmentProxy(System.Boolean, UnityEngine.Vector3, DunGen.RandomStream) -> DunGen.TileProxy
+  [M] GetAttachmentTile() -> DunGen.Tile
+
+--- DunGen.TileInjectionDelegate ---
+  [M] Invoke(DunGen.RandomStream, System.Collections.Generic.List`1<DunGen.InjectedTile>&) -> System.Void
+  [M] BeginInvoke(DunGen.RandomStream, System.Collections.Generic.List`1<DunGen.InjectedTile>&, System.AsyncCallback, System.Object) -> System.IAsyncResult
+  [M] EndInvoke(System.Collections.Generic.List`1<DunGen.InjectedTile>&, System.IAsyncResult) -> System.Void
+
+--- DunGen.DungeonGenerator ---
+  [F] CurrentFileVersion : System.Int32
+  [F] allowImmediateRepeats : System.Boolean
+  [F] Seed : System.Int32
+  [F] ShouldRandomizeSeed : System.Boolean
+  [F] <RandomStream>k__BackingField : DunGen.RandomStream
+  [F] MaxAttemptCount : System.Int32
+  [F] UseMaximumPairingAttempts : System.Boolean
+  [F] MaxPairingAttempts : System.Int32
+  [F] IgnoreSpriteBounds : System.Boolean
+  [F] UpDirection : DunGen.AxisDirection
+  [F] OverrideRepeatMode : System.Boolean
+  [F] RepeatMode : DunGen.TileRepeatMode
+  [F] OverrideAllowTileRotation : System.Boolean
+  [F] AllowTileRotation : System.Boolean
+  [F] DebugRender : System.Boolean
+  [F] LengthMultiplier : System.Single
+  [F] PlaceTileTriggers : System.Boolean
+  [F] TileTriggerLayer : System.Int32
+  [F] GenerateAsynchronously : System.Boolean
+  [F] MaxAsyncFrameMilliseconds : System.Single
+  [F] PauseBetweenRooms : System.Single
+  [F] RestrictDungeonToBounds : System.Boolean
+  [F] TilePlacementBounds : UnityEngine.Bounds
+  [F] OverlapThreshold : System.Single
+  [F] Padding : System.Single
+  [F] DisallowOverhangs : System.Boolean
+  [F] AvoidCollisionsWithOtherDungeons : System.Boolean
+  [F] OnGenerationStatusChanged : DunGen.GenerationStatusDelegate
+  [F] OnGenerationComplete : DunGen.DungeonGenerationCompleteDelegate
+  [F] OnAnyDungeonGenerationStatusChanged : DunGen.GenerationStatusDelegate
+  [F] OnAnyDungeonGenerationComplete : DunGen.DungeonGenerationCompleteDelegate
+  [F] TileInjectionMethods : DunGen.TileInjectionDelegate
+  [F] Cleared : System.Action
+  [F] Retrying : System.Action
+  [F] Root : UnityEngine.GameObject
+  [F] DungeonFlow : DunGen.Graph.DungeonFlow
+  [F] <Status>k__BackingField : DunGen.GenerationStatus
+  [F] <GenerationStats>k__BackingField : DunGen.GenerationStats
+  [F] <ChosenSeed>k__BackingField : System.Int32
+  [F] <CurrentDungeon>k__BackingField : DunGen.Dungeon
+  [F] <IsGenerating>k__BackingField : System.Boolean
+  [F] <IsAnalysis>k__BackingField : System.Boolean
+  [F] <AdditionalCollisionsPredicate>k__BackingField : DunGen.AdditionalCollisionsPredicate
+  [F] <AttachmentSettings>k__BackingField : DunGen.DungeonAttachmentSettings
+  [F] AdditionalCollisionBounds : System.Collections.Generic.List`1<UnityEngine.Bounds>
+  [F] retryCount : System.Int32
+  [F] proxyDungeon : DunGen.DungeonProxy
+  [F] tilePlacementResultCounters : System.Collections.Generic.Dictionary`2<DunGen.TilePlacementResult,System.Int32>
+  [F] useableTiles : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] targetLength : System.Int32
+  [F] tilesPendingInjection : System.Collections.Generic.List`1<DunGen.InjectedTile>
+  [F] postProcessSteps : System.Collections.Generic.List`1<DunGen.DungeonGeneratorPostProcessStep>
+  [F] fileVersion : System.Int32
+  [F] nextNodeIndex : System.Int32
+  [F] currentArchetype : DunGen.DungeonArchetype
+  [F] previousLineSegment : DunGen.Graph.GraphLine
+  [F] preProcessData : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] yieldTimer : System.Diagnostics.Stopwatch
+  [F] injectedTiles : System.Collections.Generic.Dictionary`2<DunGen.TileProxy,DunGen.InjectedTile>
+  [M] add_OnGenerationStatusChanged(DunGen.GenerationStatusDelegate) -> System.Void
+  [M] remove_OnGenerationStatusChanged(DunGen.GenerationStatusDelegate) -> System.Void
+  [M] add_OnGenerationComplete(DunGen.DungeonGenerationCompleteDelegate) -> System.Void
+  [M] remove_OnGenerationComplete(DunGen.DungeonGenerationCompleteDelegate) -> System.Void
+  [M] add_OnAnyDungeonGenerationStatusChanged(DunGen.GenerationStatusDelegate) -> System.Void
+  [M] remove_OnAnyDungeonGenerationStatusChanged(DunGen.GenerationStatusDelegate) -> System.Void
+  [M] add_OnAnyDungeonGenerationComplete(DunGen.DungeonGenerationCompleteDelegate) -> System.Void
+  [M] remove_OnAnyDungeonGenerationComplete(DunGen.DungeonGenerationCompleteDelegate) -> System.Void
+  [M] add_TileInjectionMethods(DunGen.TileInjectionDelegate) -> System.Void
+  [M] remove_TileInjectionMethods(DunGen.TileInjectionDelegate) -> System.Void
+  [M] add_Cleared(System.Action) -> System.Void
+  [M] remove_Cleared(System.Action) -> System.Void
+  [M] add_Retrying(System.Action) -> System.Void
+  [M] remove_Retrying(System.Action) -> System.Void
+  [M] Generate() -> System.Void
+  [M] Cancel() -> System.Void
+  [M] DetachDungeon() -> DunGen.Dungeon
+  [M] RandomizeSeed() -> System.Void
+  [M] Clear(System.Boolean) -> System.Void
+  [M] RegisterPostProcessStep(System.Action`1<DunGen.DungeonGenerator>, System.Int32, DunGen.PostProcessPhase) -> System.Void
+  [M] UnregisterPostProcessStep(System.Action`1<DunGen.DungeonGenerator>) -> System.Void
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+  [M] <ProcessLocalProps>g__GetHierarchyDepth|132_0(UnityEngine.Transform, System.Int32&) -> System.Void
+
+--- DunGen.DungeonGeneratorPostProcessStep ---
+  [F] PostProcessCallback : System.Action`1<DunGen.DungeonGenerator>
+  [F] Phase : DunGen.PostProcessPhase
+  [F] Priority : System.Int32
+
+--- DunGen.DungeonProxy ---
+  [F] AllTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] MainPathTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] BranchPathTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] Connections : System.Collections.Generic.List`1<DunGen.ProxyDoorwayConnection>
+  [F] visualsRoot : UnityEngine.Transform
+  [F] tileVisuals : System.Collections.Generic.Dictionary`2<DunGen.TileProxy,UnityEngine.GameObject>
+  [M] ClearDebugVisuals() -> System.Void
+  [M] MakeConnection(DunGen.DoorwayProxy, DunGen.DoorwayProxy) -> System.Void
+  [M] RemoveLastConnection() -> System.Void
+  [M] RemoveConnection(DunGen.ProxyDoorwayConnection) -> System.Void
+  [M] AddTile(DunGen.TileProxy) -> System.Void
+  [M] RemoveTile(DunGen.TileProxy) -> System.Void
+  [M] ConnectOverlappingDoorways(System.Single, DunGen.Graph.DungeonFlow, DunGen.RandomStream) -> System.Void
+
+--- DunGen.DungeonGenerationCompleteDelegate ---
+  [M] Invoke(DunGen.DungeonGenerator) -> System.Void
+  [M] BeginInvoke(DunGen.DungeonGenerator, System.AsyncCallback, System.Object) -> System.IAsyncResult
+  [M] EndInvoke(System.IAsyncResult) -> System.Void
+
+--- DunGen.DungeonGraph ---
+  [F] Nodes : System.Collections.Generic.List`1<DunGen.DungeonGraphNode>
+  [F] Connections : System.Collections.Generic.List`1<DunGen.DungeonGraphConnection>
+
+--- DunGen.DungeonGraphConnection ---
+  [F] <A>k__BackingField : DunGen.DungeonGraphNode
+  [F] <B>k__BackingField : DunGen.DungeonGraphNode
+  [F] <DoorwayA>k__BackingField : DunGen.Doorway
+  [F] <DoorwayB>k__BackingField : DunGen.Doorway
+
+--- DunGen.DungeonGraphNode ---
+  [F] Connections : System.Collections.Generic.List`1<DunGen.DungeonGraphConnection>
+  [F] <Tile>k__BackingField : DunGen.Tile
+  [M] AddConnection(DunGen.DungeonGraphConnection) -> System.Void
+
+--- DunGen.DungeonGraphObject ---
+
+--- DunGen.InjectedTile ---
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : System.Single
+  [F] NormalizedBranchDepth : System.Single
+  [F] IsOnMainPath : System.Boolean
+  [F] IsRequired : System.Boolean
+  [F] IsLocked : System.Boolean
+  [F] LockID : System.Int32
+  [F] LockedDoorPrefab : UnityEngine.GameObject
+  [M] ShouldInjectTileAtPoint(System.Boolean, System.Single, System.Single) -> System.Boolean
+
+--- DunGen.RuntimeDungeon ---
+  [F] Generator : DunGen.DungeonGenerator
+  [F] GenerateOnStart : System.Boolean
+  [F] Root : UnityEngine.GameObject
+  [F] _dungeonTileToID : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Int32>
+  [F] _dungenIDToTile : DunGen.Tile[]
+  [F] _dungenAdjacency : System.Collections.Generic.List`1<System.Int32>[]
+  [F] _dungenHop : System.UInt16[0...,0...]
+  [F] _dungenEdgeCost : System.Single[][]
+  [F] _dungenNavDist : System.Single[0...,0...]
+  [M] Generate() -> System.Void
+  [M] BuildDungeonInfo() -> System.Void
+  [M] GetAllTileToID() -> System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Int32>
+  [M] GetAllIDToTile() -> DunGen.Tile[]
+  [M] GetAllAdjacency() -> System.Collections.Generic.List`1<System.Int32>[]
+  [M] GetAllEdgeCost() -> System.Single[][]
+  [M] GetTileID(DunGen.Tile) -> System.Int32
+  [M] GetTile(System.Int32) -> DunGen.Tile
+  [M] GetHopDistance(System.Int32, System.Int32) -> System.Int32
+  [M] GetAdjacentTiles(System.Int32) -> System.Collections.Generic.List`1<System.Int32>
+  [M] GetEdgeCost(System.Int32, System.Int32) -> System.Single
+  [M] GetNavDistance(System.Int32, System.Int32) -> System.Single
+
+--- DunGen.Tile ---
+  [F] CurrentFileVersion : System.Int32
+  [F] allowImmediateRepeats : System.Boolean
+  [F] Entrance : DunGen.Doorway
+  [F] Exit : DunGen.Doorway
+  [F] AllowRotation : System.Boolean
+  [F] RepeatMode : DunGen.TileRepeatMode
+  [F] OverrideAutomaticTileBounds : System.Boolean
+  [F] TileBoundsOverride : UnityEngine.Bounds
+  [F] Entrances : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] Exits : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] OverrideConnectionChance : System.Boolean
+  [F] ConnectionChance : System.Single
+  [F] Tags : DunGen.Tags.TagContainer
+  [F] <Dungeon>k__BackingField : DunGen.Dungeon
+  [F] AllDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] UsedDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] UnusedDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] <Prefab>k__BackingField : UnityEngine.GameObject
+  [F] placement : DunGen.TilePlacementData
+  [F] fileVersion : System.Int32
+  [M] AddTriggerVolume() -> System.Void
+  [M] GetAdjactedTiles() -> System.Collections.Generic.IEnumerable`1<DunGen.Tile>
+  [M] IsAdjacentTo(DunGen.Tile) -> System.Boolean
+  [M] GetEntranceDoorway() -> DunGen.Doorway
+  [M] GetExitDoorway() -> DunGen.Doorway
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+
+--- DunGen.TileConnectionRule ---
+  [F] Priority : System.Int32
+  [F] Delegate : DunGen.TileConnectionRule/CanTilesConnectDelegate
+  [F] ConnectionDelegate : DunGen.TileConnectionRule/TileConnectionDelegate
+
+--- DunGen.TileInjectionRule ---
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : DunGen.FloatRange
+  [F] NormalizedBranchDepth : DunGen.FloatRange
+  [F] CanAppearOnMainPath : System.Boolean
+  [F] CanAppearOnBranchPath : System.Boolean
+  [F] IsRequired : System.Boolean
+  [F] IsLocked : System.Boolean
+  [F] LockID : System.Int32
+
+--- DunGen.TilePlacementData ---
+  [F] <Transform>k__BackingField : UnityEngine.Matrix4x4
+  [F] <InjectionData>k__BackingField : DunGen.InjectedTile
+  [F] pathDepth : System.Int32
+  [F] normalizedPathDepth : System.Single
+  [F] branchDepth : System.Int32
+  [F] normalizedBranchDepth : System.Single
+  [F] branchId : System.Int32
+  [F] isOnMainPath : System.Boolean
+  [F] localBounds : UnityEngine.Bounds
+  [F] worldBounds : UnityEngine.Bounds
+  [F] graphNode : DunGen.Graph.GraphNode
+  [F] graphLine : DunGen.Graph.GraphLine
+  [F] archetype : DunGen.DungeonArchetype
+  [F] tileSet : DunGen.TileSet
+  [F] position : UnityEngine.Vector3
+  [F] rotation : UnityEngine.Quaternion
+  [M] SetPositionAndRotation(UnityEngine.Vector3, UnityEngine.Quaternion) -> System.Void
+
+--- DunGen.TilePlacementResult ---
+  [F] value__ : System.Int32
+  [F] Success : DunGen.TilePlacementResult
+  [F] NoFromDoorway : DunGen.TilePlacementResult
+  [F] NoTilesWithMatchingDoorway : DunGen.TilePlacementResult
+  [F] NoValidTile : DunGen.TilePlacementResult
+  [F] TemplateIsNull : DunGen.TilePlacementResult
+  [F] NoMatchingDoorwayInTile : DunGen.TilePlacementResult
+  [F] TileIsColliding : DunGen.TilePlacementResult
+  [F] NewTileIsNull : DunGen.TilePlacementResult
+  [F] OutOfBounds : DunGen.TilePlacementResult
+
+--- DunGen.TileProxy ---
+  [F] <Prefab>k__BackingField : UnityEngine.GameObject
+  [F] <PrefabTile>k__BackingField : DunGen.Tile
+  [F] <Placement>k__BackingField : DunGen.TilePlacementData
+  [F] <Entrances>k__BackingField : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [F] <Exits>k__BackingField : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [F] <Doorways>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayProxy>
+  [F] <Tags>k__BackingField : DunGen.Tags.TagContainer
+  [F] doorways : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [M] PositionBySocket(DunGen.DoorwayProxy, DunGen.DoorwayProxy) -> System.Void
+  [M] IsOverlapping(DunGen.TileProxy, System.Single) -> System.Boolean
+  [M] IsOverlappingOrOverhanging(DunGen.TileProxy, DunGen.AxisDirection, System.Single) -> System.Boolean
+
+--- DunGen.TileRepeatMode ---
+  [F] value__ : System.Int32
+  [F] Allow : DunGen.TileRepeatMode
+  [F] DisallowImmediate : DunGen.TileRepeatMode
+  [F] Disallow : DunGen.TileRepeatMode
+
+--- DunGen.TileSet ---
+  [F] TileWeights : DunGen.GameObjectChanceTable
+  [F] LockPrefabs : System.Collections.Generic.List`1<DunGen.LockedDoorwayAssociation>
+  [M] AddTile(UnityEngine.GameObject, System.Single, System.Single) -> System.Void
+  [M] AddTiles(System.Collections.Generic.IEnumerable`1<UnityEngine.GameObject>, System.Single, System.Single) -> System.Void
+
+--- DunGen.DungeonArchetypeValidator ---
+  [F] <Flow>k__BackingField : DunGen.Graph.DungeonFlow
+  [M] IsValid() -> System.Boolean
+
+--- DunGen.DungeonUtil ---
+  [M] AddAndSetupDoorComponent(DunGen.Dungeon, UnityEngine.GameObject, DunGen.Doorway) -> System.Void
+  [M] HasAnyViableEntries(System.Collections.Generic.List`1<DunGen.GameObjectWeight>) -> System.Boolean
+  [M] GetRandom(System.Collections.Generic.List`1<DunGen.GameObjectWeight>, DunGen.RandomStream) -> UnityEngine.GameObject
+
+--- DunGen.Demo.DemoTileInjector ---
+  [F] RuntimeDungeon : DunGen.RuntimeDungeon
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : System.Single
+  [F] NormalizedBranchDepth : System.Single
+  [F] IsOnMainPath : System.Boolean
+
+--- DunGen.Demo.Generator ---
+  [F] DungeonGenerator : DunGen.RuntimeDungeon
+  [F] GetAdditionalText : System.Action`1<System.Text.StringBuilder>
+  [F] infoText : System.Text.StringBuilder
+  [F] showStats : System.Boolean
+  [F] keypressDelay : System.Single
+  [F] timeSinceLastPress : System.Single
+  [F] allowHold : System.Boolean
+  [F] isKeyDown : System.Boolean
+  [M] GenerateRandom() -> System.Void
+  [M] <OnGenerationStatusChanged>g__AddEntry|9_0(System.Text.StringBuilder, System.String, System.String) -> System.Void
+
+--- DunGen.Demo.KeySpawnPoint ---
+  [F] SetColourOnSpawn : System.Boolean
+  [M] SpawnKey(DunGen.Key, DunGen.KeyManager) -> System.Void
+
+--- DunGen.Graph.DungeonFlow ---
+  [F] FileVersion : System.Int32
+  [F] globalPropGroupID_obsolete : System.Collections.Generic.List`1<System.Int32>
+  [F] globalPropRanges_obsolete : System.Collections.Generic.List`1<DunGen.IntRange>
+  [F] Length : DunGen.IntRange
+  [F] BranchMode : DunGen.BranchMode
+  [F] BranchCount : DunGen.IntRange
+  [F] GlobalProps : System.Collections.Generic.List`1<DunGen.Graph.DungeonFlow/GlobalPropSettings>
+  [F] KeyManager : DunGen.KeyManager
+  [F] DoorwayConnectionChance : System.Single
+  [F] RestrictConnectionToSameSection : System.Boolean
+  [F] TileInjectionRules : System.Collections.Generic.List`1<DunGen.TileInjectionRule>
+  [F] TileTagConnectionMode : DunGen.Graph.DungeonFlow/TagConnectionMode
+  [F] TileConnectionTags : System.Collections.Generic.List`1<DunGen.Tags.TagPair>
+  [F] BranchTagPruneMode : DunGen.Graph.DungeonFlow/BranchPruneMode
+  [F] BranchPruneTags : System.Collections.Generic.List`1<DunGen.Tags.Tag>
+  [F] Nodes : System.Collections.Generic.List`1<DunGen.Graph.GraphNode>
+  [F] Lines : System.Collections.Generic.List`1<DunGen.Graph.GraphLine>
+  [F] currentFileVersion : System.Int32
+  [M] Reset() -> System.Void
+  [M] GetLineAtDepth(System.Single) -> DunGen.Graph.GraphLine
+  [M] GetUsedArchetypes() -> DunGen.DungeonArchetype[]
+  [M] GetUsedTileSets() -> DunGen.TileSet[]
+  [M] ShouldPruneTileWithTags(DunGen.Tags.TagContainer) -> System.Boolean
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+  [M] CanTilesConnect(DunGen.Tile, DunGen.Tile) -> System.Boolean
+  [M] CanDoorwaysConnect(DunGen.ProposedConnection) -> System.Boolean
+
+--- DunGen.Graph.DungeonFlowBuilder ---
+  [F] <Flow>k__BackingField : DunGen.Graph.DungeonFlow
+  [F] lines : System.Collections.Generic.List`1<DunGen.Graph.GraphLine>
+  [F] nodes : System.Collections.Generic.List`1<DunGen.Graph.GraphNode>
+  [F] currentPosition : System.Single
+  [M] AddLine(DunGen.DungeonArchetype, System.Single, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddLine(System.Collections.Generic.IEnumerable`1<DunGen.DungeonArchetype>, System.Single, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>) -> DunGen.Graph.DungeonFlowBuilder
+  [M] ContinueLine(System.Single) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddNode(DunGen.TileSet, System.String, System.Boolean, System.Boolean, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddNode(System.Collections.Generic.IEnumerable`1<DunGen.TileSet>, System.String, System.Boolean, System.Boolean, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>, System.Collections.Generic.IEnumerable`1<DunGen.KeyLockPlacement>) -> DunGen.Graph.DungeonFlowBuilder
+  [M] Complete() -> DunGen.Graph.DungeonFlowBuilder
+
+--- DunGen.Adapters.NavMeshAdapter ---
+  [F] OnProgress : DunGen.Adapters.NavMeshAdapter/OnNavMeshGenerationProgress
+  [M] Generate(DunGen.Dungeon) -> System.Void
+
+--- Demo_Project.Floor ---
+
+--- MMBehaviorTree.ChangeLevelObjectState ---
+
+--- MMBehaviorTree.MoveToLevelObject ---
+
+--- MMBehaviorTree.PickLevelObject ---
+
+--- MMBehaviorTree.ResetTargetLevelObject ---
+
+--- MMBehaviorTree.CheckPickedLevelObjectState ---
+
+--- MMBehaviorTree.IsLevelObjectInRange ---
+
+--- MMBehaviorTree.IsReachableLevelObject ---
+
+========== DunGen namespace (all types, full members) ==========
+
+--- DunGen.GameObjectFilter ---
+  [F] value__ : System.Int32
+  [F] Scene : DunGen.GameObjectFilter
+  [F] Asset : DunGen.GameObjectFilter
+  [F] All : DunGen.GameObjectFilter
+
+--- DunGen.AcceptGameObjectTypesAttribute ---
+  [F] <Filter>k__BackingField : DunGen.GameObjectFilter
+  [P] Filter : DunGen.GameObjectFilter
+
+--- DunGen.AdjacentRoomCulling ---
+  [F] AdjacentTileDepth : System.Int32
+  [F] CullBehindClosedDoors : System.Boolean
+  [F] TargetOverride : UnityEngine.Transform
+  [F] IncludeDisabledComponents : System.Boolean
+  [F] OverrideRendererVisibilities : System.Collections.Generic.Dictionary`2<UnityEngine.Renderer,System.Boolean>
+  [F] OverrideLightVisibilities : System.Collections.Generic.Dictionary`2<UnityEngine.Light,System.Boolean>
+  [F] <Ready>k__BackingField : System.Boolean
+  [F] <relumod_Suppressed>k__BackingField : System.Boolean
+  [F] TileVisibilityChanged : DunGen.AdjacentRoomCulling/VisibilityChangedDelegate
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] allDoors : System.Collections.Generic.List`1<DunGen.Door>
+  [F] oldVisibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] visibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] tileVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Boolean>
+  [F] tileRenderers : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Renderer>>
+  [F] lightSources : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Light>>
+  [F] reflectionProbes : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.ReflectionProbe>>
+  [F] relumod_lightAnimations : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<SimpleLightAnimation>>
+  [F] relumod_decals : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<UnityEngine.Rendering.Universal.DecalProjector>>
+  [F] doorRenderers : System.Collections.Generic.Dictionary`2<DunGen.Door,System.Collections.Generic.List`1<UnityEngine.Renderer>>
+  [F] dirty : System.Boolean
+  [F] generator : DunGen.DungeonGenerator
+  [F] currentTile : DunGen.Tile
+  [F] tilesToSearch : System.Collections.Generic.Queue`1<DunGen.Tile>
+  [F] searchedTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] dungeon : DunGen.Dungeon
+  [F] relumod_allBounds : UnityEngine.Bounds
+  [F] relumod_tilesByXZ : System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.Collections.Generic.List`1<DunGen.Tile>>>
+  [F] relumod_tilesByXWidth : System.Single
+  [F] relumod_tilesByZWidth : System.Single
+  [P] Ready : System.Boolean
+  [P] relumod_Suppressed : System.Boolean
+  [P] targetTransform : UnityEngine.Transform
+  [M] add_TileVisibilityChanged(VisibilityChangedDelegate) -> System.Void
+  [M] remove_TileVisibilityChanged(VisibilityChangedDelegate) -> System.Void
+  [M] IsCameraTargetOutdoor() -> System.Boolean
+  [M] SetDungeon(Dungeon) -> System.Void
+  [M] IsTileVisible(Tile) -> System.Boolean
+  [M] UpdateRendererLists() -> System.Void
+  [M] relumod_FastFindCurrentTile(Transform, Single) -> DunGen.Tile
+  [M] relumod_FastFindCurrentTile(Vector3, Single) -> DunGen.Tile
+  [M] relumod_AddRenderersToTile(Tile, Transform) -> System.Void
+  [M] relumod_RemoveRenderersFromTile(Tile, Transform) -> System.Void
+  [M] relumod_Suppress() -> System.Void
+  [M] relumod_Unsuppress() -> System.Void
+  [M] OnTeleported() -> System.Void
+
+--- DunGen.BasicRoomCullingCamera ---
+  [F] AdjacentTileDepth : System.Int32
+  [F] CullBehindClosedDoors : System.Boolean
+  [F] TargetOverride : UnityEngine.Transform
+  [F] CullInEditor : System.Boolean
+  [F] CullLights : System.Boolean
+  [F] <IsReady>k__BackingField : System.Boolean
+  [F] isCulling : System.Boolean
+  [F] isDirty : System.Boolean
+  [F] generator : DunGen.DungeonGenerator
+  [F] currentTile : DunGen.Tile
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] allDoors : System.Collections.Generic.List`1<DunGen.Door>
+  [F] visibleTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] rendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+  [F] lightVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/LightData>>
+  [F] reflectionProbeVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/ReflectionProbeData>>
+  [F] doorRendererVisibilities : System.Collections.Generic.Dictionary`2<DunGen.Door,System.Collections.Generic.List`1<DunGen.BasicRoomCullingCamera/RendererData>>
+  [P] IsReady : System.Boolean
+  [M] SetDungeon(Dungeon) -> System.Void
+
+--- DunGen.BranchMode ---
+  [F] value__ : System.Int32
+  [F] Local : DunGen.BranchMode
+  [F] Global : DunGen.BranchMode
+  [F] Section : DunGen.BranchMode
+
+--- DunGen.BranchCountHelper ---
+  [M] ComputeBranchCounts(DungeonFlow, RandomStream, DungeonProxy, Int32[]&) -> System.Void
+  [M] <DistributeByWeights>g__Round|4_0(Double) -> System.Int32
+
+--- DunGen.Constants ---
+  [F] DefaultDungeonRootName : System.String
+
+--- DunGen.CoroutineHelper ---
+  [F] instance : DunGen.CoroutineHelper
+  [P] Instance : DunGen.CoroutineHelper
+  [M] Start(IEnumerator) -> UnityEngine.Coroutine
+  [M] StopAll() -> System.Void
+
+--- DunGen.Door ---
+  [F] Dungeon : DunGen.Dungeon
+  [F] DoorwayA : DunGen.Doorway
+  [F] DoorwayB : DunGen.Doorway
+  [F] TileA : DunGen.Tile
+  [F] TileB : DunGen.Tile
+  [F] OnDoorStateChanged : DunGen.Door/DoorStateChangedDelegate
+  [F] dontCullBehind : System.Boolean
+  [F] isOpen : System.Boolean
+  [P] DontCullBehind : System.Boolean
+  [P] ShouldCullBehind : System.Boolean
+  [P] IsOpen : System.Boolean
+  [M] add_OnDoorStateChanged(DoorStateChangedDelegate) -> System.Void
+  [M] remove_OnDoorStateChanged(DoorStateChangedDelegate) -> System.Void
+  [M] SetDoorState(Boolean) -> System.Void
+
+--- DunGen.Doorway ---
+  [F] CurrentFileVersion : System.Int32
+  [F] DoorPrefabPriority : System.Int32
+  [F] ConnectorPrefabWeights : System.Collections.Generic.List`1<DunGen.GameObjectWeight>
+  [F] BlockerPrefabWeights : System.Collections.Generic.List`1<DunGen.GameObjectWeight>
+  [F] AvoidRotatingDoorPrefab : System.Boolean
+  [F] AvoidRotatingBlockerPrefab : System.Boolean
+  [F] ConnectorSceneObjects : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] BlockerSceneObjects : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] Tags : DunGen.Tags.TagContainer
+  [F] LockID : System.Nullable`1<System.Int32>
+  [F] <Dungeon>k__BackingField : DunGen.Dungeon
+  [F] socketGroup_obsolete : DunGen.DoorwaySocketType
+  [F] doorPrefabs_obsolete : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] blockerPrefabs_obsolete : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] socket : DunGen.DoorwaySocket
+  [F] doorPrefabInstance : UnityEngine.GameObject
+  [F] doorComponent : DunGen.Door
+  [F] tile : DunGen.Tile
+  [F] connectedDoorway : DunGen.Doorway
+  [F] hideConditionalObjects : System.Boolean
+  [F] spawnedBlockerPrefab : UnityEngine.GameObject
+  [F] fileVersion : System.Int32
+  [F] placedByGenerator : System.Boolean
+  [P] HasSocketAssigned : System.Boolean
+  [P] Socket : DunGen.DoorwaySocket
+  [P] Tile : DunGen.Tile
+  [P] IsLocked : System.Boolean
+  [P] HasDoorPrefabInstance : System.Boolean
+  [P] UsedDoorPrefabInstance : UnityEngine.GameObject
+  [P] DoorComponent : DunGen.Door
+  [P] Dungeon : DunGen.Dungeon
+  [P] ConnectedDoorway : DunGen.Doorway
+  [P] HideConditionalObjects : System.Boolean
+  [M] SetUsedPrefab(GameObject) -> System.Void
+  [M] RemoveUsedPrefab() -> System.Void
+  [M] ValidateTransform(Bounds&, Boolean&, Boolean&) -> System.Boolean
+  [M] TrySnapToCorrectedTransform() -> System.Void
+  [M] ProjectPositionToTileBounds(Bounds) -> UnityEngine.Vector3
+  [M] ProcessDoorwayObjects(Boolean, RandomStream) -> System.Void
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+
+--- DunGen.DoorwayConnection ---
+  [F] a : DunGen.Doorway
+  [F] b : DunGen.Doorway
+  [P] A : DunGen.Doorway
+  [P] B : DunGen.Doorway
+
+--- DunGen.DoorwayPair ---
+  [F] <PreviousTile>k__BackingField : DunGen.TileProxy
+  [F] <PreviousDoorway>k__BackingField : DunGen.DoorwayProxy
+  [F] <NextTemplate>k__BackingField : DunGen.TileProxy
+  [F] <NextDoorway>k__BackingField : DunGen.DoorwayProxy
+  [F] <NextTileSet>k__BackingField : DunGen.TileSet
+  [F] <TileWeight>k__BackingField : System.Single
+  [F] <DoorwayWeight>k__BackingField : System.Single
+  [P] PreviousTile : DunGen.TileProxy
+  [P] PreviousDoorway : DunGen.DoorwayProxy
+  [P] NextTemplate : DunGen.TileProxy
+  [P] NextDoorway : DunGen.DoorwayProxy
+  [P] NextTileSet : DunGen.TileSet
+  [P] TileWeight : System.Single
+  [P] DoorwayWeight : System.Single
+
+--- DunGen.TileMatchDelegate ---
+  [M] Invoke(TileProxy, TileProxy, Single&) -> System.Boolean
+  [M] BeginInvoke(TileProxy, TileProxy, Single&, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(Single&, IAsyncResult) -> System.Boolean
+
+--- DunGen.GetTileTemplateDelegate ---
+  [M] Invoke(GameObject) -> DunGen.TileProxy
+  [M] BeginInvoke(GameObject, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> DunGen.TileProxy
+
+--- DunGen.DoorwayPairFinder ---
+  [F] CustomConnectionRules : System.Collections.Generic.List`1<DunGen.TileConnectionRule>
+  [F] RandomStream : DunGen.RandomStream
+  [F] TileWeights : System.Collections.Generic.List`1<DunGen.GameObjectChance>
+  [F] PreviousTile : DunGen.TileProxy
+  [F] IsOnMainPath : System.Boolean
+  [F] NormalizedDepth : System.Single
+  [F] Archetype : DunGen.DungeonArchetype
+  [F] AllowRotation : System.Nullable`1<System.Boolean>
+  [F] UpVector : UnityEngine.Vector3
+  [F] IsTileAllowedPredicate : DunGen.TileMatchDelegate
+  [F] GetTileTemplateDelegate : DunGen.GetTileTemplateDelegate
+  [F] DungeonFlow : DunGen.Graph.DungeonFlow
+  [F] DungeonProxy : DunGen.DungeonProxy
+  [F] tileOrder : System.Collections.Generic.List`1<DunGen.GameObjectChance>
+  [M] GetDoorwayPairs(Nullable`1) -> System.Collections.Generic.Queue`1<DunGen.DoorwayPair>
+
+--- DunGen.DoorwaySocketType ---
+  [F] value__ : System.Int32
+  [F] Default : DunGen.DoorwaySocketType
+  [F] Large : DunGen.DoorwaySocketType
+  [F] Vertical : DunGen.DoorwaySocketType
+
+--- DunGen.SocketConnectionDelegate ---
+  [M] Invoke(DoorwaySocket, DoorwaySocket) -> System.Boolean
+  [M] BeginInvoke(DoorwaySocket, DoorwaySocket, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Boolean
+
+--- DunGen.DoorwaySocket ---
+  [F] size : UnityEngine.Vector2
+  [F] CustomSocketConnectionDelegate : DunGen.SocketConnectionDelegate
+  [P] Size : UnityEngine.Vector2
+  [M] CanSocketsConnect(DoorwaySocket, DoorwaySocket) -> System.Boolean
+
+--- DunGen.DungenCharacterDelegate ---
+  [M] Invoke(DungenCharacter) -> System.Void
+  [M] BeginInvoke(DungenCharacter, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Void
+
+--- DunGen.CharacterTileChangedEvent ---
+  [M] Invoke(DungenCharacter, Tile, Tile) -> System.Void
+  [M] BeginInvoke(DungenCharacter, Tile, Tile, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Void
+
+--- DunGen.DungenCharacter ---
+  [F] CharacterAdded : DunGen.DungenCharacterDelegate
+  [F] CharacterRemoved : DunGen.DungenCharacterDelegate
+  [F] <AllCharacters>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DungenCharacter>
+  [F] allCharacters : System.Collections.Generic.List`1<DunGen.DungenCharacter>
+  [F] OnTileChanged : DunGen.CharacterTileChangedEvent
+  [F] overlappingTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [P] AllCharacters : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DungenCharacter>
+  [P] CurrentTile : DunGen.Tile
+  [M] add_CharacterAdded(DungenCharacterDelegate) -> System.Void
+  [M] remove_CharacterAdded(DungenCharacterDelegate) -> System.Void
+  [M] add_CharacterRemoved(DungenCharacterDelegate) -> System.Void
+  [M] remove_CharacterRemoved(DungenCharacterDelegate) -> System.Void
+  [M] add_OnTileChanged(CharacterTileChangedEvent) -> System.Void
+  [M] remove_OnTileChanged(CharacterTileChangedEvent) -> System.Void
+  [M] ForceRecheckTile() -> System.Void
+  [M] OnTileEntered(Tile) -> System.Void
+  [M] OnTileExited(Tile) -> System.Void
+
+--- DunGen.DunGenSettings ---
+  [F] instance : DunGen.DunGenSettings
+  [F] defaultSocket : DunGen.DoorwaySocket
+  [F] tagManager : DunGen.Tags.TagManager
+  [P] Instance : DunGen.DunGenSettings
+  [P] DefaultSocket : DunGen.DoorwaySocket
+  [P] TagManager : DunGen.Tags.TagManager
+  [M] FindOrCreateInstanceAsset() -> DunGen.DunGenSettings
+
+--- DunGen.Dungeon ---
+  [F] <Bounds>k__BackingField : UnityEngine.Bounds
+  [F] DebugRender : System.Boolean
+  [F] <AllTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <MainPathTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <BranchPathTiles>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [F] <Doors>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.GameObject>
+  [F] <Connections>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayConnection>
+  [F] <ConnectionGraph>k__BackingField : DunGen.DungeonGraph
+  [F] dungeonFlow : DunGen.Graph.DungeonFlow
+  [F] allTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] mainPathTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] branchPathTiles : System.Collections.Generic.List`1<DunGen.Tile>
+  [F] doors : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] connections : System.Collections.Generic.List`1<DunGen.DoorwayConnection>
+  [F] attachmentTile : DunGen.Tile
+  [P] Bounds : UnityEngine.Bounds
+  [P] DungeonFlow : DunGen.Graph.DungeonFlow
+  [P] AllTiles : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [P] MainPathTiles : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [P] BranchPathTiles : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Tile>
+  [P] Doors : System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.GameObject>
+  [P] Connections : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayConnection>
+  [P] ConnectionGraph : DunGen.DungeonGraph
+  [M] AddAdditionalDoor(Door) -> System.Void
+  [M] PreGenerateDungeon(DungeonGenerator) -> System.Void
+  [M] PostGenerateDungeon(DungeonGenerator) -> System.Void
+  [M] Clear() -> System.Void
+  [M] GetConnectedDoorway(Doorway) -> DunGen.Doorway
+  [M] FromProxy(DungeonProxy, DungeonGenerator) -> System.Void
+  [M] OnDrawGizmos() -> System.Void
+  [M] DebugDraw() -> System.Void
+
+--- DunGen.DungeonArchetype ---
+  [F] TileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchStartTileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchStartType : DunGen.BranchCapType
+  [F] BranchCapTileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] BranchCapType : DunGen.BranchCapType
+  [F] BranchingDepth : DunGen.IntRange
+  [F] BranchCount : DunGen.IntRange
+  [F] StraightenChance : System.Single
+  [F] Unique : System.Boolean
+  [M] GetHasValidBranchStartTiles() -> System.Boolean
+  [M] GetHasValidBranchCapTiles() -> System.Boolean
+
+--- DunGen.BranchCapType ---
+  [F] value__ : System.Byte
+  [F] InsteadOf : DunGen.BranchCapType
+  [F] AsWellAs : DunGen.BranchCapType
+
+--- DunGen.DungeonAttachmentSettings ---
+  [F] <AttachmentDoorway>k__BackingField : DunGen.Doorway
+  [F] <AttachmentTile>k__BackingField : DunGen.Tile
+  [F] <TileProxy>k__BackingField : DunGen.TileProxy
+  [P] AttachmentDoorway : DunGen.Doorway
+  [P] AttachmentTile : DunGen.Tile
+  [P] TileProxy : DunGen.TileProxy
+  [M] GenerateAttachmentProxy(Boolean, Vector3, RandomStream) -> DunGen.TileProxy
+  [M] GetAttachmentTile() -> DunGen.Tile
+
+--- DunGen.TileInjectionDelegate ---
+  [M] Invoke(RandomStream, List`1&) -> System.Void
+  [M] BeginInvoke(RandomStream, List`1&, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(List`1&, IAsyncResult) -> System.Void
+
+--- DunGen.AdditionalCollisionsPredicate ---
+  [M] Invoke(Bounds, Boolean) -> System.Boolean
+  [M] BeginInvoke(Bounds, Boolean, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Boolean
+
+--- DunGen.AxisDirection ---
+  [F] value__ : System.Int32
+  [F] PosX : DunGen.AxisDirection
+  [F] NegX : DunGen.AxisDirection
+  [F] PosY : DunGen.AxisDirection
+  [F] NegY : DunGen.AxisDirection
+  [F] PosZ : DunGen.AxisDirection
+  [F] NegZ : DunGen.AxisDirection
+
+--- DunGen.DungeonGenerator ---
+  [F] CurrentFileVersion : System.Int32
+  [F] allowImmediateRepeats : System.Boolean
+  [F] Seed : System.Int32
+  [F] ShouldRandomizeSeed : System.Boolean
+  [F] <RandomStream>k__BackingField : DunGen.RandomStream
+  [F] MaxAttemptCount : System.Int32
+  [F] UseMaximumPairingAttempts : System.Boolean
+  [F] MaxPairingAttempts : System.Int32
+  [F] IgnoreSpriteBounds : System.Boolean
+  [F] UpDirection : DunGen.AxisDirection
+  [F] OverrideRepeatMode : System.Boolean
+  [F] RepeatMode : DunGen.TileRepeatMode
+  [F] OverrideAllowTileRotation : System.Boolean
+  [F] AllowTileRotation : System.Boolean
+  [F] DebugRender : System.Boolean
+  [F] LengthMultiplier : System.Single
+  [F] PlaceTileTriggers : System.Boolean
+  [F] TileTriggerLayer : System.Int32
+  [F] GenerateAsynchronously : System.Boolean
+  [F] MaxAsyncFrameMilliseconds : System.Single
+  [F] PauseBetweenRooms : System.Single
+  [F] RestrictDungeonToBounds : System.Boolean
+  [F] TilePlacementBounds : UnityEngine.Bounds
+  [F] OverlapThreshold : System.Single
+  [F] Padding : System.Single
+  [F] DisallowOverhangs : System.Boolean
+  [F] AvoidCollisionsWithOtherDungeons : System.Boolean
+  [F] OnGenerationStatusChanged : DunGen.GenerationStatusDelegate
+  [F] OnGenerationComplete : DunGen.DungeonGenerationCompleteDelegate
+  [F] OnAnyDungeonGenerationStatusChanged : DunGen.GenerationStatusDelegate
+  [F] OnAnyDungeonGenerationComplete : DunGen.DungeonGenerationCompleteDelegate
+  [F] TileInjectionMethods : DunGen.TileInjectionDelegate
+  [F] Cleared : System.Action
+  [F] Retrying : System.Action
+  [F] Root : UnityEngine.GameObject
+  [F] DungeonFlow : DunGen.Graph.DungeonFlow
+  [F] <Status>k__BackingField : DunGen.GenerationStatus
+  [F] <GenerationStats>k__BackingField : DunGen.GenerationStats
+  [F] <ChosenSeed>k__BackingField : System.Int32
+  [F] <CurrentDungeon>k__BackingField : DunGen.Dungeon
+  [F] <IsGenerating>k__BackingField : System.Boolean
+  [F] <IsAnalysis>k__BackingField : System.Boolean
+  [F] <AdditionalCollisionsPredicate>k__BackingField : DunGen.AdditionalCollisionsPredicate
+  [F] <AttachmentSettings>k__BackingField : DunGen.DungeonAttachmentSettings
+  [F] AdditionalCollisionBounds : System.Collections.Generic.List`1<UnityEngine.Bounds>
+  [F] retryCount : System.Int32
+  [F] proxyDungeon : DunGen.DungeonProxy
+  [F] tilePlacementResultCounters : System.Collections.Generic.Dictionary`2<DunGen.TilePlacementResult,System.Int32>
+  [F] useableTiles : System.Collections.Generic.List`1<UnityEngine.GameObject>
+  [F] targetLength : System.Int32
+  [F] tilesPendingInjection : System.Collections.Generic.List`1<DunGen.InjectedTile>
+  [F] postProcessSteps : System.Collections.Generic.List`1<DunGen.DungeonGeneratorPostProcessStep>
+  [F] fileVersion : System.Int32
+  [F] nextNodeIndex : System.Int32
+  [F] currentArchetype : DunGen.DungeonArchetype
+  [F] previousLineSegment : DunGen.Graph.GraphLine
+  [F] preProcessData : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] yieldTimer : System.Diagnostics.Stopwatch
+  [F] injectedTiles : System.Collections.Generic.Dictionary`2<DunGen.TileProxy,DunGen.InjectedTile>
+  [P] RandomStream : DunGen.RandomStream
+  [P] UpVector : UnityEngine.Vector3
+  [P] Status : DunGen.GenerationStatus
+  [P] GenerationStats : DunGen.GenerationStats
+  [P] ChosenSeed : System.Int32
+  [P] CurrentDungeon : DunGen.Dungeon
+  [P] IsGenerating : System.Boolean
+  [P] IsAnalysis : System.Boolean
+  [P] AdditionalCollisionsPredicate : DunGen.AdditionalCollisionsPredicate
+  [P] AttachmentSettings : DunGen.DungeonAttachmentSettings
+  [M] add_OnGenerationStatusChanged(GenerationStatusDelegate) -> System.Void
+  [M] remove_OnGenerationStatusChanged(GenerationStatusDelegate) -> System.Void
+  [M] add_OnGenerationComplete(DungeonGenerationCompleteDelegate) -> System.Void
+  [M] remove_OnGenerationComplete(DungeonGenerationCompleteDelegate) -> System.Void
+  [M] add_OnAnyDungeonGenerationStatusChanged(GenerationStatusDelegate) -> System.Void
+  [M] remove_OnAnyDungeonGenerationStatusChanged(GenerationStatusDelegate) -> System.Void
+  [M] add_OnAnyDungeonGenerationComplete(DungeonGenerationCompleteDelegate) -> System.Void
+  [M] remove_OnAnyDungeonGenerationComplete(DungeonGenerationCompleteDelegate) -> System.Void
+  [M] add_TileInjectionMethods(TileInjectionDelegate) -> System.Void
+  [M] remove_TileInjectionMethods(TileInjectionDelegate) -> System.Void
+  [M] add_Cleared(Action) -> System.Void
+  [M] remove_Cleared(Action) -> System.Void
+  [M] add_Retrying(Action) -> System.Void
+  [M] remove_Retrying(Action) -> System.Void
+  [M] Generate() -> System.Void
+  [M] Cancel() -> System.Void
+  [M] DetachDungeon() -> DunGen.Dungeon
+  [M] RandomizeSeed() -> System.Void
+  [M] Clear(Boolean) -> System.Void
+  [M] RegisterPostProcessStep(Action`1, Int32, PostProcessPhase) -> System.Void
+  [M] UnregisterPostProcessStep(Action`1) -> System.Void
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+  [M] <ProcessLocalProps>g__GetHierarchyDepth|132_0(Transform, Int32&) -> System.Void
+
+--- DunGen.PostProcessPhase ---
+  [F] value__ : System.Int32
+  [F] BeforeBuiltIn : DunGen.PostProcessPhase
+  [F] AfterBuiltIn : DunGen.PostProcessPhase
+
+--- DunGen.DungeonGeneratorPostProcessStep ---
+  [F] PostProcessCallback : System.Action`1<DunGen.DungeonGenerator>
+  [F] Phase : DunGen.PostProcessPhase
+  [F] Priority : System.Int32
+
+--- DunGen.ProxyDoorwayConnection ---
+  [F] <A>k__BackingField : DunGen.DoorwayProxy
+  [F] <B>k__BackingField : DunGen.DoorwayProxy
+  [P] A : DunGen.DoorwayProxy
+  [P] B : DunGen.DoorwayProxy
+
+--- DunGen.DungeonProxy ---
+  [F] AllTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] MainPathTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] BranchPathTiles : System.Collections.Generic.List`1<DunGen.TileProxy>
+  [F] Connections : System.Collections.Generic.List`1<DunGen.ProxyDoorwayConnection>
+  [F] visualsRoot : UnityEngine.Transform
+  [F] tileVisuals : System.Collections.Generic.Dictionary`2<DunGen.TileProxy,UnityEngine.GameObject>
+  [M] ClearDebugVisuals() -> System.Void
+  [M] MakeConnection(DoorwayProxy, DoorwayProxy) -> System.Void
+  [M] RemoveLastConnection() -> System.Void
+  [M] RemoveConnection(ProxyDoorwayConnection) -> System.Void
+  [M] AddTile(TileProxy) -> System.Void
+  [M] RemoveTile(TileProxy) -> System.Void
+  [M] ConnectOverlappingDoorways(Single, DungeonFlow, RandomStream) -> System.Void
+
+--- DunGen.EditorConstants ---
+  [F] DoorRectColourValid : UnityEngine.Color
+  [F] DoorRectColourWarning : UnityEngine.Color
+  [F] DoorRectColourError : UnityEngine.Color
+  [F] DoorDirectionColour : UnityEngine.Color
+  [F] DoorUpColour : UnityEngine.Color
+
+--- DunGen.GameObjectChance ---
+  [F] Value : UnityEngine.GameObject
+  [F] MainPathWeight : System.Single
+  [F] BranchPathWeight : System.Single
+  [F] DepthWeightScale : UnityEngine.AnimationCurve
+  [F] TileSet : DunGen.TileSet
+  [M] GetWeight(Boolean, Single) -> System.Single
+
+--- DunGen.GameObjectChanceTable ---
+  [F] Weights : System.Collections.Generic.List`1<DunGen.GameObjectChance>
+  [M] Clone() -> DunGen.GameObjectChanceTable
+  [M] HasAnyValidEntries() -> System.Boolean
+  [M] HasAnyValidEntries(Boolean, Single, GameObject, Boolean, Boolean) -> System.Boolean
+  [M] ContainsGameObject(GameObject) -> System.Boolean
+  [M] GetRandom(RandomStream, Boolean, Single, GameObject, Boolean, Boolean, Boolean) -> DunGen.GameObjectChance
+  [M] GetCombinedRandom(RandomStream, Boolean, Single, GameObjectChanceTable[]) -> UnityEngine.GameObject
+  [M] Combine(GameObjectChanceTable[]) -> DunGen.GameObjectChanceTable
+
+--- DunGen.GameObjectWeight ---
+  [F] GameObject : UnityEngine.GameObject
+  [F] Weight : System.Single
+
+--- DunGen.GenerationStats ---
+  [F] <MainPathRoomCount>k__BackingField : System.Int32
+  [F] <BranchPathRoomCount>k__BackingField : System.Int32
+  [F] <TotalRoomCount>k__BackingField : System.Int32
+  [F] <MaxBranchDepth>k__BackingField : System.Int32
+  [F] <TotalRetries>k__BackingField : System.Int32
+  [F] <PrunedBranchTileCount>k__BackingField : System.Int32
+  [F] <GenerationStepTimes>k__BackingField : System.Collections.Generic.Dictionary`2<DunGen.GenerationStatus,System.Single>
+  [F] stopwatch : System.Diagnostics.Stopwatch
+  [F] generationStatus : DunGen.GenerationStatus
+  [P] MainPathRoomCount : System.Int32
+  [P] BranchPathRoomCount : System.Int32
+  [P] TotalRoomCount : System.Int32
+  [P] MaxBranchDepth : System.Int32
+  [P] TotalRetries : System.Int32
+  [P] PrunedBranchTileCount : System.Int32
+  [P] GenerationStepTimes : System.Collections.Generic.Dictionary`2<DunGen.GenerationStatus,System.Single>
+  [P] TotalTime : System.Single
+  [M] GetGenerationStepTime(GenerationStatus) -> System.Single
+  [M] Clear() -> System.Void
+  [M] IncrementRetryCount() -> System.Void
+  [M] SetRoomStatistics(Int32, Int32, Int32) -> System.Void
+  [M] BeginTime(GenerationStatus) -> System.Void
+  [M] EndTime() -> System.Void
+  [M] Clone() -> DunGen.GenerationStats
+
+--- DunGen.GenerationStatusDelegate ---
+  [M] Invoke(DungeonGenerator, GenerationStatus) -> System.Void
+  [M] BeginInvoke(DungeonGenerator, GenerationStatus, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Void
+
+--- DunGen.DungeonGenerationCompleteDelegate ---
+  [M] Invoke(DungeonGenerator) -> System.Void
+  [M] BeginInvoke(DungeonGenerator, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Void
+
+--- DunGen.GenerationStatus ---
+  [F] value__ : System.Int32
+  [F] NotStarted : DunGen.GenerationStatus
+  [F] PreProcessing : DunGen.GenerationStatus
+  [F] TileInjection : DunGen.GenerationStatus
+  [F] MainPath : DunGen.GenerationStatus
+  [F] Branching : DunGen.GenerationStatus
+  [F] BranchPruning : DunGen.GenerationStatus
+  [F] InstantiatingTiles : DunGen.GenerationStatus
+  [F] PostProcessing : DunGen.GenerationStatus
+  [F] Complete : DunGen.GenerationStatus
+  [F] Failed : DunGen.GenerationStatus
+
+--- DunGen.GlobalProp ---
+  [F] PropGroupID : System.Int32
+  [F] MainPathWeight : System.Single
+  [F] BranchPathWeight : System.Single
+  [F] DepthWeightScale : UnityEngine.AnimationCurve
+
+--- DunGen.DungeonGraph ---
+  [F] Nodes : System.Collections.Generic.List`1<DunGen.DungeonGraphNode>
+  [F] Connections : System.Collections.Generic.List`1<DunGen.DungeonGraphConnection>
+
+--- DunGen.DungeonGraphConnection ---
+  [F] <A>k__BackingField : DunGen.DungeonGraphNode
+  [F] <B>k__BackingField : DunGen.DungeonGraphNode
+  [F] <DoorwayA>k__BackingField : DunGen.Doorway
+  [F] <DoorwayB>k__BackingField : DunGen.Doorway
+  [P] A : DunGen.DungeonGraphNode
+  [P] B : DunGen.DungeonGraphNode
+  [P] DoorwayA : DunGen.Doorway
+  [P] DoorwayB : DunGen.Doorway
+
+--- DunGen.DungeonGraphNode ---
+  [F] Connections : System.Collections.Generic.List`1<DunGen.DungeonGraphConnection>
+  [F] <Tile>k__BackingField : DunGen.Tile
+  [P] Tile : DunGen.Tile
+  [M] AddConnection(DungeonGraphConnection) -> System.Void
+
+--- DunGen.DungeonGraphObject ---
+
+--- DunGen.InjectedTile ---
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : System.Single
+  [F] NormalizedBranchDepth : System.Single
+  [F] IsOnMainPath : System.Boolean
+  [F] IsRequired : System.Boolean
+  [F] IsLocked : System.Boolean
+  [F] LockID : System.Int32
+  [F] LockedDoorPrefab : UnityEngine.GameObject
+  [M] ShouldInjectTileAtPoint(Boolean, Single, Single) -> System.Boolean
+
+--- DunGen.Key ---
+  [F] Prefab : UnityEngine.GameObject
+  [F] Colour : UnityEngine.Color
+  [F] KeysPerLock : DunGen.IntRange
+  [F] id : System.Int32
+  [F] name : System.String
+  [P] ID : System.Int32
+  [P] Name : System.String
+
+--- DunGen.KeyLockPlacement ---
+  [F] ID : System.Int32
+  [F] Range : DunGen.IntRange
+
+--- DunGen.KeyManager ---
+  [F] keysReadOnly : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Key>
+  [F] keys : System.Collections.Generic.List`1<DunGen.Key>
+  [P] Keys : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.Key>
+  [M] CreateKey() -> DunGen.Key
+  [M] DeleteKey(Int32) -> System.Void
+  [M] GetKeyByID(Int32) -> DunGen.Key
+  [M] GetKeyByName(String) -> DunGen.Key
+  [M] RenameKey(Int32, String) -> System.Boolean
+
+--- DunGen.LocalPropSetCountMode ---
+  [F] value__ : System.Int32
+  [F] Random : DunGen.LocalPropSetCountMode
+  [F] DepthBased : DunGen.LocalPropSetCountMode
+  [F] DepthMultiply : DunGen.LocalPropSetCountMode
+
+--- DunGen.GetPropCountDelegate ---
+  [M] Invoke(LocalPropSet, RandomStream, Tile) -> System.Int32
+  [M] BeginInvoke(LocalPropSet, RandomStream, Tile, AsyncCallback, Object) -> System.IAsyncResult
+  [M] EndInvoke(IAsyncResult) -> System.Int32
+
+--- DunGen.LocalPropSet ---
+  [F] GetCountMethods : System.Collections.Generic.Dictionary`2<DunGen.LocalPropSetCountMode,DunGen.GetPropCountDelegate>
+  [F] Props : DunGen.GameObjectChanceTable
+  [F] PropCount : DunGen.IntRange
+  [F] CountMode : DunGen.LocalPropSetCountMode
+  [F] CountDepthCurve : UnityEngine.AnimationCurve
+  [M] Process(RandomStream, Tile, List`1&) -> System.Void
+
+--- DunGen.LockedDoorwayAssociation ---
+  [F] Socket : DunGen.DoorwaySocket
+  [F] LockPrefabs : DunGen.GameObjectChanceTable
+
+--- DunGen.NodeLockPlacement ---
+  [F] value__ : System.Int32
+  [F] Entrance : DunGen.NodeLockPlacement
+  [F] Exit : DunGen.NodeLockPlacement
+
+--- DunGen.ProposedConnection ---
+  [F] <ProxyDungeon>k__BackingField : DunGen.DungeonProxy
+  [F] <PreviousTile>k__BackingField : DunGen.TileProxy
+  [F] <NextTile>k__BackingField : DunGen.TileProxy
+  [F] <PreviousDoorway>k__BackingField : DunGen.DoorwayProxy
+  [F] <NextDoorway>k__BackingField : DunGen.DoorwayProxy
+  [P] ProxyDungeon : DunGen.DungeonProxy
+  [P] PreviousTile : DunGen.TileProxy
+  [P] NextTile : DunGen.TileProxy
+  [P] PreviousDoorway : DunGen.DoorwayProxy
+  [P] NextDoorway : DunGen.DoorwayProxy
+
+--- DunGen.RandomPrefab ---
+  [F] Props : DunGen.GameObjectChanceTable
+  [F] ZeroPosition : System.Boolean
+  [F] ZeroRotation : System.Boolean
+  [M] Process(RandomStream, Tile, List`1&) -> System.Void
+
+--- DunGen.RandomProp ---
+  [M] Process(RandomStream, Tile, List`1&) -> System.Void
+
+--- DunGen.RandomStream ---
+  [F] Global : DunGen.RandomStream
+  [F] maxValue : System.Int32
+  [F] seed : System.Int32
+  [F] iNext : System.Int32
+  [F] iNextP : System.Int32
+  [F] seedArray : System.Int32[]
+  [M] Next() -> System.Int32
+  [M] Next(Int32, Int32) -> System.Int32
+  [M] Next(Int32) -> System.Int32
+  [M] NextDouble() -> System.Double
+  [M] NextBytes(Byte[]) -> System.Void
+
+--- DunGen.RuntimeDungeon ---
+  [F] Generator : DunGen.DungeonGenerator
+  [F] GenerateOnStart : System.Boolean
+  [F] Root : UnityEngine.GameObject
+  [F] _dungeonTileToID : System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Int32>
+  [F] _dungenIDToTile : DunGen.Tile[]
+  [F] _dungenAdjacency : System.Collections.Generic.List`1<System.Int32>[]
+  [F] _dungenHop : System.UInt16[0...,0...]
+  [F] _dungenEdgeCost : System.Single[][]
+  [F] _dungenNavDist : System.Single[0...,0...]
+  [M] Generate() -> System.Void
+  [M] BuildDungeonInfo() -> System.Void
+  [M] GetAllTileToID() -> System.Collections.Generic.Dictionary`2<DunGen.Tile,System.Int32>
+  [M] GetAllIDToTile() -> DunGen.Tile[]
+  [M] GetAllAdjacency() -> System.Collections.Generic.List`1<System.Int32>[]
+  [M] GetAllEdgeCost() -> System.Single[][]
+  [M] GetTileID(Tile) -> System.Int32
+  [M] GetTile(Int32) -> DunGen.Tile
+  [M] GetHopDistance(Int32, Int32) -> System.Int32
+  [M] GetAdjacentTiles(Int32) -> System.Collections.Generic.List`1<System.Int32>
+  [M] GetEdgeCost(Int32, Int32) -> System.Single
+  [M] GetNavDistance(Int32, Int32) -> System.Single
+
+--- DunGen.Tile ---
+  [F] CurrentFileVersion : System.Int32
+  [F] allowImmediateRepeats : System.Boolean
+  [F] Entrance : DunGen.Doorway
+  [F] Exit : DunGen.Doorway
+  [F] AllowRotation : System.Boolean
+  [F] RepeatMode : DunGen.TileRepeatMode
+  [F] OverrideAutomaticTileBounds : System.Boolean
+  [F] TileBoundsOverride : UnityEngine.Bounds
+  [F] Entrances : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] Exits : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] OverrideConnectionChance : System.Boolean
+  [F] ConnectionChance : System.Single
+  [F] Tags : DunGen.Tags.TagContainer
+  [F] <Dungeon>k__BackingField : DunGen.Dungeon
+  [F] AllDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] UsedDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] UnusedDoorways : System.Collections.Generic.List`1<DunGen.Doorway>
+  [F] <Prefab>k__BackingField : UnityEngine.GameObject
+  [F] placement : DunGen.TilePlacementData
+  [F] fileVersion : System.Int32
+  [P] Bounds : UnityEngine.Bounds
+  [P] Placement : DunGen.TilePlacementData
+  [P] Dungeon : DunGen.Dungeon
+  [P] Prefab : UnityEngine.GameObject
+  [M] AddTriggerVolume() -> System.Void
+  [M] GetAdjactedTiles() -> System.Collections.Generic.IEnumerable`1<DunGen.Tile>
+  [M] IsAdjacentTo(Tile) -> System.Boolean
+  [M] GetEntranceDoorway() -> DunGen.Doorway
+  [M] GetExitDoorway() -> DunGen.Doorway
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+
+--- DunGen.TileConnectionRule ---
+  [F] Priority : System.Int32
+  [F] Delegate : DunGen.TileConnectionRule/CanTilesConnectDelegate
+  [F] ConnectionDelegate : DunGen.TileConnectionRule/TileConnectionDelegate
+
+--- DunGen.TileInjectionRule ---
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : DunGen.FloatRange
+  [F] NormalizedBranchDepth : DunGen.FloatRange
+  [F] CanAppearOnMainPath : System.Boolean
+  [F] CanAppearOnBranchPath : System.Boolean
+  [F] IsRequired : System.Boolean
+  [F] IsLocked : System.Boolean
+  [F] LockID : System.Int32
+
+--- DunGen.TilePlacementData ---
+  [F] <Transform>k__BackingField : UnityEngine.Matrix4x4
+  [F] <InjectionData>k__BackingField : DunGen.InjectedTile
+  [F] pathDepth : System.Int32
+  [F] normalizedPathDepth : System.Single
+  [F] branchDepth : System.Int32
+  [F] normalizedBranchDepth : System.Single
+  [F] branchId : System.Int32
+  [F] isOnMainPath : System.Boolean
+  [F] localBounds : UnityEngine.Bounds
+  [F] worldBounds : UnityEngine.Bounds
+  [F] graphNode : DunGen.Graph.GraphNode
+  [F] graphLine : DunGen.Graph.GraphLine
+  [F] archetype : DunGen.DungeonArchetype
+  [F] tileSet : DunGen.TileSet
+  [F] position : UnityEngine.Vector3
+  [F] rotation : UnityEngine.Quaternion
+  [P] PathDepth : System.Int32
+  [P] NormalizedPathDepth : System.Single
+  [P] BranchDepth : System.Int32
+  [P] NormalizedBranchDepth : System.Single
+  [P] BranchId : System.Int32
+  [P] IsOnMainPath : System.Boolean
+  [P] Bounds : UnityEngine.Bounds
+  [P] LocalBounds : UnityEngine.Bounds
+  [P] GraphNode : DunGen.Graph.GraphNode
+  [P] GraphLine : DunGen.Graph.GraphLine
+  [P] Archetype : DunGen.DungeonArchetype
+  [P] TileSet : DunGen.TileSet
+  [P] Position : UnityEngine.Vector3
+  [P] Rotation : UnityEngine.Quaternion
+  [P] Transform : UnityEngine.Matrix4x4
+  [P] Depth : System.Int32
+  [P] NormalizedDepth : System.Single
+  [P] InjectionData : DunGen.InjectedTile
+  [M] SetPositionAndRotation(Vector3, Quaternion) -> System.Void
+
+--- DunGen.TilePlacementResult ---
+  [F] value__ : System.Int32
+  [F] Success : DunGen.TilePlacementResult
+  [F] NoFromDoorway : DunGen.TilePlacementResult
+  [F] NoTilesWithMatchingDoorway : DunGen.TilePlacementResult
+  [F] NoValidTile : DunGen.TilePlacementResult
+  [F] TemplateIsNull : DunGen.TilePlacementResult
+  [F] NoMatchingDoorwayInTile : DunGen.TilePlacementResult
+  [F] TileIsColliding : DunGen.TilePlacementResult
+  [F] NewTileIsNull : DunGen.TilePlacementResult
+  [F] OutOfBounds : DunGen.TilePlacementResult
+
+--- DunGen.DoorwayProxy ---
+  [F] <TileProxy>k__BackingField : DunGen.TileProxy
+  [F] <Index>k__BackingField : System.Int32
+  [F] <Socket>k__BackingField : DunGen.DoorwaySocket
+  [F] <DoorwayComponent>k__BackingField : DunGen.Doorway
+  [F] <LocalPosition>k__BackingField : UnityEngine.Vector3
+  [F] <LocalRotation>k__BackingField : UnityEngine.Quaternion
+  [F] <ConnectedDoorway>k__BackingField : DunGen.DoorwayProxy
+  [F] <Tags>k__BackingField : DunGen.Tags.TagContainer
+  [F] <IsDisabled>k__BackingField : System.Boolean
+  [P] Used : System.Boolean
+  [P] TileProxy : DunGen.TileProxy
+  [P] Index : System.Int32
+  [P] Socket : DunGen.DoorwaySocket
+  [P] DoorwayComponent : DunGen.Doorway
+  [P] LocalPosition : UnityEngine.Vector3
+  [P] LocalRotation : UnityEngine.Quaternion
+  [P] ConnectedDoorway : DunGen.DoorwayProxy
+  [P] Forward : UnityEngine.Vector3
+  [P] Up : UnityEngine.Vector3
+  [P] Position : UnityEngine.Vector3
+  [P] Tags : DunGen.Tags.TagContainer
+  [P] IsDisabled : System.Boolean
+  [M] Connect(DoorwayProxy, DoorwayProxy) -> System.Void
+  [M] Disconnect() -> System.Void
+
+--- DunGen.TileProxy ---
+  [F] <Prefab>k__BackingField : UnityEngine.GameObject
+  [F] <PrefabTile>k__BackingField : DunGen.Tile
+  [F] <Placement>k__BackingField : DunGen.TilePlacementData
+  [F] <Entrances>k__BackingField : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [F] <Exits>k__BackingField : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [F] <Doorways>k__BackingField : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayProxy>
+  [F] <Tags>k__BackingField : DunGen.Tags.TagContainer
+  [F] doorways : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [P] Prefab : UnityEngine.GameObject
+  [P] PrefabTile : DunGen.Tile
+  [P] Placement : DunGen.TilePlacementData
+  [P] Entrances : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [P] Exits : System.Collections.Generic.List`1<DunGen.DoorwayProxy>
+  [P] Doorways : System.Collections.ObjectModel.ReadOnlyCollection`1<DunGen.DoorwayProxy>
+  [P] UsedDoorways : System.Collections.Generic.IEnumerable`1<DunGen.DoorwayProxy>
+  [P] UnusedDoorways : System.Collections.Generic.IEnumerable`1<DunGen.DoorwayProxy>
+  [P] Tags : DunGen.Tags.TagContainer
+  [M] PositionBySocket(DoorwayProxy, DoorwayProxy) -> System.Void
+  [M] IsOverlapping(TileProxy, Single) -> System.Boolean
+  [M] IsOverlappingOrOverhanging(TileProxy, AxisDirection, Single) -> System.Boolean
+
+--- DunGen.TileRepeatMode ---
+  [F] value__ : System.Int32
+  [F] Allow : DunGen.TileRepeatMode
+  [F] DisallowImmediate : DunGen.TileRepeatMode
+  [F] Disallow : DunGen.TileRepeatMode
+
+--- DunGen.TileSet ---
+  [F] TileWeights : DunGen.GameObjectChanceTable
+  [F] LockPrefabs : System.Collections.Generic.List`1<DunGen.LockedDoorwayAssociation>
+  [M] AddTile(GameObject, Single, Single) -> System.Void
+  [M] AddTiles(IEnumerable`1, Single, Single) -> System.Void
+
+--- DunGen.Chance`1 ---
+  [F] Value : T
+  [F] Weight : System.Single
+
+--- DunGen.ChanceTable`1 ---
+  [F] Weights : System.Collections.Generic.List`1<DunGen.Chance`1<T>>
+  [M] Add(T, Single) -> System.Void
+  [M] Remove(T) -> System.Void
+  [M] GetRandom(RandomStream) -> T
+  [M] GetCombinedRandom(RandomStream, ChanceTable`1[]) -> TVal
+
+--- DunGen.DebugDraw ---
+  [M] Bounds(Bounds, Matrix4x4, Color, Single, Boolean) -> System.Void
+
+--- DunGen.DungeonArchetypeValidator ---
+  [F] <Flow>k__BackingField : DunGen.Graph.DungeonFlow
+  [P] Flow : DunGen.Graph.DungeonFlow
+  [M] IsValid() -> System.Boolean
+
+--- DunGen.DungeonUtil ---
+  [M] AddAndSetupDoorComponent(Dungeon, GameObject, Doorway) -> System.Void
+  [M] HasAnyViableEntries(List`1) -> System.Boolean
+  [M] GetRandom(List`1, RandomStream) -> UnityEngine.GameObject
+
+--- DunGen.NumberUtil ---
+  [M] ClampToNearest(Single, Single[]) -> System.Single
+
+--- DunGen.IntRange ---
+  [F] Min : System.Int32
+  [F] Max : System.Int32
+  [M] GetRandom(RandomStream) -> System.Int32
+  [M] ToString() -> System.String
+
+--- DunGen.FloatRange ---
+  [F] Min : System.Single
+  [F] Max : System.Single
+  [M] GetRandom(RandomStream) -> System.Single
+
+--- DunGen.StringUtil ---
+  [F] capitalLetterPattern : System.Text.RegularExpressions.Regex
+  [M] SplitCamelCase(String) -> System.String
+
+--- DunGen.UnityUtil ---
+  [F] <ProBuilderMeshType>k__BackingField : System.Type
+  [F] <ProBuilderPositionsProperty>k__BackingField : System.Reflection.PropertyInfo
+  [P] ProBuilderMeshType : System.Type
+  [P] ProBuilderPositionsProperty : System.Reflection.PropertyInfo
+  [M] FindProBuilderObjectType() -> System.Void
+  [M] FindObjectByType() -> T
+  [M] FindObjectsByType() -> T[]
+  [M] Restart(Stopwatch) -> System.Void
+  [M] Contains(Bounds, Bounds) -> System.Boolean
+  [M] TransformBounds(Transform, Bounds) -> UnityEngine.Bounds
+  [M] InverseTransformBounds(Transform, Bounds) -> UnityEngine.Bounds
+  [M] SetLayerRecursive(GameObject, Int32) -> System.Void
+  [M] Destroy(Object) -> System.Void
+  [M] GetUniqueName(String, IEnumerable`1) -> System.String
+  [M] CombineBounds(Bounds[]) -> UnityEngine.Bounds
+  [M] CalculateProxyBounds(GameObject, Boolean, Vector3) -> UnityEngine.Bounds
+  [M] CalculateObjectBounds(GameObject, Boolean, Boolean, Boolean) -> UnityEngine.Bounds
+  [M] PositionObjectBySocket(GameObject, GameObject, GameObject) -> System.Void
+  [M] PositionObjectBySocket(Transform, Transform, Transform) -> System.Void
+  [M] IsVectorAxisAligned(Vector3) -> System.Boolean
+  [M] AreBoundsOverlapping(Bounds, Bounds, Single) -> System.Boolean
+  [M] AreBoundsOverlappingOrOverhanging(Bounds, Bounds, AxisDirection, Single) -> System.Boolean
+  [M] CalculateBoundsOverlap(Bounds, Bounds) -> UnityEngine.Vector3
+  [M] GetCardinalDirection(Vector3, Single&) -> UnityEngine.Vector3
+  [M] VectorAbs(Vector3) -> UnityEngine.Vector3
+  [M] SetVector3Masked(Vector3&, Vector3, Vector3) -> System.Void
+  [M] ClampVector(Vector3, Vector3, Vector3) -> UnityEngine.Vector3
+  [M] CondenseBounds(Bounds, IEnumerable`1) -> UnityEngine.Bounds
+  [M] GetComponentsInParents(GameObject, Boolean) -> System.Collections.Generic.IEnumerable`1<T>
+  [M] GetComponentInParents(GameObject, Boolean) -> T
+  [M] CalculateOverlap(Bounds, Bounds) -> System.Single
+  [M] CalculatePerAxisOverlap(Bounds, Bounds) -> UnityEngine.Vector3
+
+--- DunGen.Demo2D.PlayerController2D ---
+  [F] MovementSpeed : System.Single
+  [F] collider : UnityEngine.CircleCollider2D
+  [F] hitBuffer : UnityEngine.RaycastHit2D[]
+  [F] dungeonGenerator : DunGen.DungeonGenerator
+
+--- DunGen.Demo.AutoDoor ---
+  [F] Door : UnityEngine.GameObject
+  [F] OpenOffset : UnityEngine.Vector3
+  [F] Speed : System.Single
+  [F] closedPosition : UnityEngine.Vector3
+  [F] currentState : DunGen.Demo.AutoDoor/DoorState
+  [F] currentFramePosition : System.Single
+  [F] doorComponent : DunGen.Door
+
+--- DunGen.Demo.CameraMovement ---
+  [F] moveSpeed : System.Single
+  [F] lookSensitivity : System.Single
+  [F] holdRightMouseToLook : System.Boolean
+  [F] scrollZoomSpeed : System.Single
+  [F] look : UnityEngine.Vector2
+  [F] cam : UnityEngine.Camera
+
+--- DunGen.Demo.DemoTileInjector ---
+  [F] RuntimeDungeon : DunGen.RuntimeDungeon
+  [F] TileSet : DunGen.TileSet
+  [F] NormalizedPathDepth : System.Single
+  [F] NormalizedBranchDepth : System.Single
+  [F] IsOnMainPath : System.Boolean
+
+--- DunGen.Demo.Generator ---
+  [F] DungeonGenerator : DunGen.RuntimeDungeon
+  [F] GetAdditionalText : System.Action`1<System.Text.StringBuilder>
+  [F] infoText : System.Text.StringBuilder
+  [F] showStats : System.Boolean
+  [F] keypressDelay : System.Single
+  [F] timeSinceLastPress : System.Single
+  [F] allowHold : System.Boolean
+  [F] isKeyDown : System.Boolean
+  [M] GenerateRandom() -> System.Void
+  [M] <OnGenerationStatusChanged>g__AddEntry|9_0(StringBuilder, String, String) -> System.Void
+
+--- DunGen.Demo.KeyColour ---
+  [F] keyID : System.Int32
+  [F] keyManager : DunGen.KeyManager
+  [M] OnKeyAssigned(Key, KeyManager) -> System.Void
+
+--- DunGen.Demo.KeyPickup ---
+  [F] keyID : System.Int32
+  [F] keyManager : DunGen.KeyManager
+  [P] Key : DunGen.Key
+  [M] OnKeyAssigned(Key, KeyManager) -> System.Void
+
+--- DunGen.Demo.KeySpawnPoint ---
+  [F] SetColourOnSpawn : System.Boolean
+  [M] SpawnKey(Key, KeyManager) -> System.Void
+
+--- DunGen.Demo.LockedDoor ---
+  [F] OpenDuration : System.Single
+  [F] OpenPositionOffset : UnityEngine.Vector3
+  [F] keyID : System.Int32
+  [F] keyManager : DunGen.KeyManager
+  [F] initialPosition : UnityEngine.Vector3
+  [F] openTime : System.Single
+  [F] isOpening : System.Boolean
+  [F] door : DunGen.Door
+  [P] Key : DunGen.Key
+  [M] OnKeyAssigned(Key, KeyManager) -> System.Void
+
+--- DunGen.Demo.PickupMotion ---
+  [F] SpinSpeed : System.Single
+  [F] BobSpeed : System.Single
+  [F] BobDistance : System.Single
+  [F] positionOffset : UnityEngine.Vector3
+
+--- DunGen.Demo.PlayerController ---
+  [F] MinYaw : System.Single
+  [F] MaxYaw : System.Single
+  [F] MinPitch : System.Single
+  [F] MaxPitch : System.Single
+  [F] LookSensitivity : System.Single
+  [F] MoveSpeed : System.Single
+  [F] TurnSpeed : System.Single
+  [F] movementController : UnityEngine.CharacterController
+  [F] playerCamera : UnityEngine.Camera
+  [F] overheadCamera : UnityEngine.Camera
+  [F] isControlling : System.Boolean
+  [F] yaw : System.Single
+  [F] pitch : System.Single
+  [F] gen : DunGen.Demo.Generator
+  [F] velocity : UnityEngine.Vector3
+  [P] IsControlling : System.Boolean
+  [P] ActiveCamera : UnityEngine.Camera
+
+--- DunGen.Demo.PlayerInventory ---
+  [F] keys : System.Collections.Generic.List`1<System.Int32>
+  [M] HasKey(Int32) -> System.Boolean
+  [M] AddKey(Int32) -> System.Void
+  [M] RemoveKey(Int32) -> System.Void
+
+--- DunGen.Demo.ScreenText ---
+  [F] Style : UnityEngine.GUIStyle
+  [F] MessageFadeTime : System.Single
+  [F] messages : System.Collections.Generic.List`1<DunGen.Demo.ScreenText/ScreenTextData>
+  [M] AddMessage(String) -> System.Void
+  [M] Log(Object) -> System.Void
+  [M] Log(String, Object[]) -> System.Void
+
+--- DunGen.Tags.Tag ---
+  [F] id : System.Int32
+  [P] ID : System.Int32
+  [P] Name : System.String
+  [M] Equals(Object) -> System.Boolean
+  [M] GetHashCode() -> System.Int32
+  [M] ToString() -> System.String
+  [M] GetHashCode(Tag) -> System.Int32
+  [M] Equals(Tag, Tag) -> System.Boolean
+  [M] op_Equality(Tag, Tag) -> System.Boolean
+  [M] op_Inequality(Tag, Tag) -> System.Boolean
+
+--- DunGen.Tags.TagContainer ---
+  [F] Tags : System.Collections.Generic.List`1<DunGen.Tags.Tag>
+  [M] HasTag(Tag) -> System.Boolean
+  [M] HasAnyTag(Tag[]) -> System.Boolean
+  [M] HasAnyTag(TagContainer) -> System.Boolean
+  [M] HasAllTags(Tag[]) -> System.Boolean
+  [M] HasAllTags(TagContainer) -> System.Boolean
+  [M] GetEnumerator() -> System.Collections.Generic.IEnumerator`1<DunGen.Tags.Tag>
+
+--- DunGen.Tags.TagManager ---
+  [F] tags : System.Collections.Generic.Dictionary`2<System.Int32,System.String>
+  [F] keys : System.Collections.Generic.List`1<System.Int32>
+  [F] values : System.Collections.Generic.List`1<System.String>
+  [P] TagCount : System.Int32
+  [M] TryGetNameFromID(Int32) -> System.String
+  [M] TagExists(String, Int32&) -> System.Boolean
+  [M] TryRenameTag(Int32, String) -> System.Boolean
+  [M] AddTag(String) -> System.Int32
+  [M] RemoveTag(Int32) -> System.Boolean
+  [M] GetTagIDs() -> System.Int32[]
+  [M] OnAfterDeserialize() -> System.Void
+  [M] OnBeforeSerialize() -> System.Void
+
+--- DunGen.Tags.TagPair ---
+  [F] TagA : DunGen.Tags.Tag
+  [F] TagB : DunGen.Tags.Tag
+  [M] ToString() -> System.String
+  [M] Matches(Tag, Tag, Boolean) -> System.Boolean
+
+--- DunGen.Graph.DungeonFlow ---
+  [F] FileVersion : System.Int32
+  [F] globalPropGroupID_obsolete : System.Collections.Generic.List`1<System.Int32>
+  [F] globalPropRanges_obsolete : System.Collections.Generic.List`1<DunGen.IntRange>
+  [F] Length : DunGen.IntRange
+  [F] BranchMode : DunGen.BranchMode
+  [F] BranchCount : DunGen.IntRange
+  [F] GlobalProps : System.Collections.Generic.List`1<DunGen.Graph.DungeonFlow/GlobalPropSettings>
+  [F] KeyManager : DunGen.KeyManager
+  [F] DoorwayConnectionChance : System.Single
+  [F] RestrictConnectionToSameSection : System.Boolean
+  [F] TileInjectionRules : System.Collections.Generic.List`1<DunGen.TileInjectionRule>
+  [F] TileTagConnectionMode : DunGen.Graph.DungeonFlow/TagConnectionMode
+  [F] TileConnectionTags : System.Collections.Generic.List`1<DunGen.Tags.TagPair>
+  [F] BranchTagPruneMode : DunGen.Graph.DungeonFlow/BranchPruneMode
+  [F] BranchPruneTags : System.Collections.Generic.List`1<DunGen.Tags.Tag>
+  [F] Nodes : System.Collections.Generic.List`1<DunGen.Graph.GraphNode>
+  [F] Lines : System.Collections.Generic.List`1<DunGen.Graph.GraphLine>
+  [F] currentFileVersion : System.Int32
+  [M] Reset() -> System.Void
+  [M] GetLineAtDepth(Single) -> DunGen.Graph.GraphLine
+  [M] GetUsedArchetypes() -> DunGen.DungeonArchetype[]
+  [M] GetUsedTileSets() -> DunGen.TileSet[]
+  [M] ShouldPruneTileWithTags(TagContainer) -> System.Boolean
+  [M] OnBeforeSerialize() -> System.Void
+  [M] OnAfterDeserialize() -> System.Void
+  [M] CanTilesConnect(Tile, Tile) -> System.Boolean
+  [M] CanDoorwaysConnect(ProposedConnection) -> System.Boolean
+
+--- DunGen.Graph.DungeonFlowBuilder ---
+  [F] <Flow>k__BackingField : DunGen.Graph.DungeonFlow
+  [F] lines : System.Collections.Generic.List`1<DunGen.Graph.GraphLine>
+  [F] nodes : System.Collections.Generic.List`1<DunGen.Graph.GraphNode>
+  [F] currentPosition : System.Single
+  [P] Flow : DunGen.Graph.DungeonFlow
+  [M] AddLine(DungeonArchetype, Single, IEnumerable`1, IEnumerable`1) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddLine(IEnumerable`1, Single, IEnumerable`1, IEnumerable`1) -> DunGen.Graph.DungeonFlowBuilder
+  [M] ContinueLine(Single) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddNode(TileSet, String, Boolean, Boolean, IEnumerable`1, IEnumerable`1) -> DunGen.Graph.DungeonFlowBuilder
+  [M] AddNode(IEnumerable`1, String, Boolean, Boolean, IEnumerable`1, IEnumerable`1) -> DunGen.Graph.DungeonFlowBuilder
+  [M] Complete() -> DunGen.Graph.DungeonFlowBuilder
+
+--- DunGen.Graph.GraphLine ---
+  [F] Graph : DunGen.Graph.DungeonFlow
+  [F] DungeonArchetypes : System.Collections.Generic.List`1<DunGen.DungeonArchetype>
+  [F] Position : System.Single
+  [F] Length : System.Single
+  [F] Keys : System.Collections.Generic.List`1<DunGen.KeyLockPlacement>
+  [F] Locks : System.Collections.Generic.List`1<DunGen.KeyLockPlacement>
+  [M] GetRandomArchetype(RandomStream, IList`1) -> DunGen.DungeonArchetype
+
+--- DunGen.Graph.NodeType ---
+  [F] value__ : System.Int32
+  [F] Normal : DunGen.Graph.NodeType
+  [F] Start : DunGen.Graph.NodeType
+  [F] Goal : DunGen.Graph.NodeType
+
+--- DunGen.Graph.GraphNode ---
+  [F] Graph : DunGen.Graph.DungeonFlow
+  [F] TileSets : System.Collections.Generic.List`1<DunGen.TileSet>
+  [F] NodeType : DunGen.Graph.NodeType
+  [F] Position : System.Single
+  [F] Label : System.String
+  [F] Keys : System.Collections.Generic.List`1<DunGen.KeyLockPlacement>
+  [F] Locks : System.Collections.Generic.List`1<DunGen.KeyLockPlacement>
+  [F] LockPlacement : DunGen.NodeLockPlacement
+
+--- DunGen.Graph.FlowGraphObjectReference ---
+  [F] flow : DunGen.Graph.DungeonFlow
+  [F] index : System.Int32
+  [P] Flow : DunGen.Graph.DungeonFlow
+
+--- DunGen.Graph.FlowNodeReference ---
+  [P] Node : DunGen.Graph.GraphNode
+
+--- DunGen.Graph.FlowLineReference ---
+  [P] Line : DunGen.Graph.GraphLine
+
+--- DunGen.Editor.LoadingAnimationMode ---
+  [F] value__ : System.Int32
+  [F] Static : DunGen.Editor.LoadingAnimationMode
+  [F] FrameSequence : DunGen.Editor.LoadingAnimationMode
+  [F] Spin : DunGen.Editor.LoadingAnimationMode
+
+--- DunGen.Editor.RuntimeAnalyzer ---
+  [F] DungeonFlow : DunGen.Graph.DungeonFlow
+  [F] Iterations : System.Int32
+  [F] MaxFailedAttempts : System.Int32
+  [F] RunOnStart : System.Boolean
+  [F] MaximumAnalysisTime : System.Single
+  [F] SaveToFile : System.Boolean
+  [F] OutputFolderName : System.String
+  [F] SaveAsText : System.Boolean
+  [F] SaveAsCSV : System.Boolean
+  [F] SaveAsJSON : System.Boolean
+  [F] ResultFontSize : System.Int32
+  [F] AnimationMode : DunGen.Editor.LoadingAnimationMode
+  [F] LoadingImage : UnityEngine.Texture2D
+  [F] AnimationFrames : System.Collections.Generic.List`1<UnityEngine.Texture2D>
+  [F] AnimationSpeed : System.Single
+  [F] BackgroundDimAlpha : System.Single
+  [F] AutoTrackTiles : System.Boolean
+  [F] TrackedTileNames : System.Collections.Generic.List`1<System.String>
+  [F] tileUsageCounts : System.Collections.Generic.Dictionary`2<System.String,System.Int32>
+  [F] loggedTileKeysOnce : System.Boolean
+  [F] TextPadding : System.Int32
+  [F] generator : DunGen.DungeonGenerator
+  [F] analysis : DunGen.Analysis.GenerationAnalysis
+  [F] infoText : System.Text.StringBuilder
+  [F] finishedEarly : System.Boolean
+  [F] prevShouldRandomizeSeed : System.Boolean
+  [F] targetIterations : System.Int32
+  [F] remainingIterations : System.Int32
+  [F] analysisTime : System.Diagnostics.Stopwatch
+  [F] generateNextFrame : System.Boolean
+  [F] _lastCountedRoot : UnityEngine.GameObject
+  [F] IsRunning : System.Boolean
+  [F] _currentFunnyMessage : System.String
+  [F] _messageTimer : System.Single
+  [F] _messageInterval : System.Single
+  [F] _funnyMessages : System.Collections.Generic.List`1<System.String>
+  [F] _loadingTextStyle : UnityEngine.GUIStyle
+  [F] _resultTextStyle : UnityEngine.GUIStyle
+  [F] _whiteTexture : UnityEngine.Texture2D
+  [F] _rotationAngle : System.Single
+  [F] _scrollPosition : UnityEngine.Vector2
+  [P] currentIterations : System.Int32
+  [M] Analyze() -> System.Void
+
+--- DunGen.Analysis.GenerationAnalysis ---
+  [F] MeasurableSteps : DunGen.GenerationStatus[]
+  [F] <TargetIterationCount>k__BackingField : System.Int32
+  [F] <IterationCount>k__BackingField : System.Int32
+  [F] <MainPathRoomCount>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <BranchPathRoomCount>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <TotalRoomCount>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <MaxBranchDepth>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <TotalRetries>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <GenerationStepTimes>k__BackingField : System.Collections.Generic.Dictionary`2<DunGen.GenerationStatus,DunGen.Analysis.NumberSetData>
+  [F] <TotalTime>k__BackingField : DunGen.Analysis.NumberSetData
+  [F] <AnalysisTime>k__BackingField : System.Single
+  [F] <SuccessCount>k__BackingField : System.Int32
+  [F] statsSet : System.Collections.Generic.List`1<DunGen.GenerationStats>
+  [P] TargetIterationCount : System.Int32
+  [P] IterationCount : System.Int32
+  [P] MainPathRoomCount : DunGen.Analysis.NumberSetData
+  [P] BranchPathRoomCount : DunGen.Analysis.NumberSetData
+  [P] TotalRoomCount : DunGen.Analysis.NumberSetData
+  [P] MaxBranchDepth : DunGen.Analysis.NumberSetData
+  [P] TotalRetries : DunGen.Analysis.NumberSetData
+  [P] GenerationStepTimes : System.Collections.Generic.Dictionary`2<DunGen.GenerationStatus,DunGen.Analysis.NumberSetData>
+  [P] TotalTime : DunGen.Analysis.NumberSetData
+  [P] AnalysisTime : System.Single
+  [P] SuccessCount : System.Int32
+  [P] SuccessPercentage : System.Single
+  [M] GetGenerationStepData(GenerationStatus) -> DunGen.Analysis.NumberSetData
+  [M] Clear() -> System.Void
+  [M] Add(GenerationStats) -> System.Void
+  [M] IncrementSuccessCount() -> System.Void
+  [M] Analyze() -> System.Void
+
+--- DunGen.Analysis.NumberSetData ---
+  [F] <Min>k__BackingField : System.Single
+  [F] <Max>k__BackingField : System.Single
+  [F] <Average>k__BackingField : System.Single
+  [F] <StandardDeviation>k__BackingField : System.Single
+  [P] Min : System.Single
+  [P] Max : System.Single
+  [P] Average : System.Single
+  [P] StandardDeviation : System.Single
+  [M] ToString() -> System.String
+
+--- DunGen.Adapters.BaseAdapter ---
+  [F] Priority : System.Int32
+  [F] <RunDuringAnalysis>k__BackingField : System.Boolean
+  [F] dungeonGenerator : DunGen.DungeonGenerator
+  [P] RunDuringAnalysis : System.Boolean
+
+--- DunGen.Adapters.NavMeshAdapter ---
+  [F] OnProgress : DunGen.Adapters.NavMeshAdapter/OnNavMeshGenerationProgress
+  [M] Generate(Dungeon) -> System.Void
+
+--- DunGen.Adapters.CullingAdapter ---
